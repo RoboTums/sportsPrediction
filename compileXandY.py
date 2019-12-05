@@ -18,8 +18,6 @@ def mergeXandY(filename):
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Quarterback.csv')
 	if filename == 'RB.csv':
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Runningback.csv')
-	if filename == 'PK.csv':
-		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Punters.csv')
 	if filename == 'TE.csv' or filename == "WR.csv":
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Wide_Receiver_and_Tight_End.csv')
 	if filename == 'DEF.csv':
