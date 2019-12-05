@@ -1,0 +1,285 @@
+,name,team,opponent,points,salary,week
+0,"Jackson, Lamar",bal,mia,33.56,7400,1
+1,"Prescott, Dak",dal, nyg,33.4,7500,1
+2,"Watson, Deshaun",hou,nor,31.72,8500,1
+3,"Stafford, Matthew",det,ari,27.6,6600,1
+4,"Mahomes II, Patrick",kan,jac,27.32,8700,1
+5,"Keenum, Case",was,phi,27.2,6200,1
+6,"Brady, Tom",nwe, pit,25.64,7300,1
+7,"Wentz, Carson",phi, was,25.02,7600,1
+8,"Rivers, Philip",lac, ind,24.92,7500,1
+9,"Mariota, Marcus",ten,cle,24.32,6500,1
+10,"Murray, Kyler",ari, det,22.62,7300,1
+11,"Brees, Drew",nor, hou,21.8,8000,1
+12,"Dalton, Andy",cin,sea,20.72,6500,1
+13,"Ryan, Matt",atl,min,20.56,8000,1
+14,"Minshew, Gardner",jac, kan,18.6,6000,1
+15,"Allen, Josh",buf,nyj,17.96,6900,1
+16,"Wilson, Russell",sea, cin,16.64,8200,1
+17,"Brissett, Jacoby",ind,lac,16.5,6000,1
+18,"Manning, Eli",nyg,dal,14.84,6400,1
+19,"Flacco, Joe",den,oak,14.82,6400,1
+20,"Carr, Derek",oak, den,14.56,6600,1
+21,"Cousins, Kirk",min, atl,14.32,7400,1
+22,"Darnold, Sam",nyj, buf,13,6700,1
+23,"Rodgers, Aaron",gnb,chi,12.92,8200,1
+24,"Mayfield, Baker",cle, ten,12.4,7900,1
+25,"Garoppolo, Jimmy",sfo,tam,11.44,7200,1
+26,"Fitzpatrick, Ryan",mia, bal,11.2,6200,1
+27,"Roethlisberger, Ben",pit,nwe,10.74,7600,1
+28,"Goff, Jared",lar,car,10.44,7800,1
+29,"Winston, Jameis",tam, sfo,10.06,7500,1
+30,"Trubisky, Mitchell",chi, gnb,9.22,7200,1
+31,"Griffin III, Robert",bal,mia,7.1,6000,1
+32,"Foles, Nick",jac, kan,7,6500,1
+33,"Newton, Cam",car, lar,6.36,7900,1
+34,"Taylor, Tyrod",lac, ind,0,6000,1
+35,"Rush, Cooper",dal, nyg,0,6000,1
+36,"Moore, Matt",kan,jac,-0.1,6000,1
+37,"Tannehill, Ryan",ten,cle,-0.2,6000,1
+38,"Rosen, Josh",mia, bal,-0.8,6200,1
+39,"Jones, Daniel",nyg,dal,-0.82,6000,1
+40,"Mahomes II, Patrick",kan,oak,31.62,9000,2
+41,"Jackson, Lamar",bal, ari,30.88,8200,2
+42,"Prescott, Dak",dal,was,28.66,7700,2
+43,"Brady, Tom",nwe,mia,24.66,7800,2
+44,"Wilson, Russell",sea,pit,24.2,7600,2
+45,"Garoppolo, Jimmy",sfo,cin,23.68,7000,2
+46,"Allen, Josh",buf,nyg,22.22,7500,2
+47,"Ryan, Matt",atl, phi,22.1,7900,2
+48,"Dalton, Andy",cin, sfo,19.64,7100,2
+49,"Wentz, Carson",phi,atl,19.54,7700,2
+50,"Goff, Jared",lar, nor,19.12,7600,2
+51,"Brissett, Jacoby",ind,ten,17.34,6000,2
+52,"Stafford, Matthew",det, lac,17.1,7000,2
+53,"Keenum, Case",was, dal,16.74,6900,2
+54,"Flacco, Joe",den, chi,16.68,6400,2
+55,"Murray, Kyler",ari,bal,16.36,6500,2
+56,"Minshew, Gardner",jac,hou,16.12,6400,2
+57,"Mayfield, Baker",cle,nyj,16,7500,2
+58,"Rodgers, Aaron",gnb, min,14.36,8000,2
+59,"Mariota, Marcus",ten, ind,13.36,7400,2
+60,"Winston, Jameis",tam,car,13.22,7300,2
+61,"Watson, Deshaun",hou, jac,12.86,8500,2
+62,"Manning, Eli",nyg, buf,12.2,6400,2
+63,"Rudolph, Mason",pit, sea,12.18,6000,2
+64,"Rivers, Philip",lac,det,11.92,7700,2
+65,"Carr, Derek",oak, kan,11.72,6600,2
+66,"Newton, Cam",car, tam,11.32,7800,2
+67,"Cousins, Kirk",min,gnb,10.9,7300,2
+68,"Falk, Luke",nyj, cle,7.92,0,2
+69,"Bridgewater, Teddy",nor,lar,7.1,6000,2
+70,"Trubisky, Mitchell",chi,den,5.6,6800,2
+71,"Roethlisberger, Ben",pit, sea,3,7600,2
+72,"Rosen, Josh",mia, nwe,2.88,6000,2
+73,"Fitzpatrick, Ryan",mia, nwe,1.16,6200,2
+74,"McCown, Josh",phi,atl,0.96,6000,2
+75,"Brees, Drew",nor,lar,0.52,8000,2
+76,"Siemian, Trevor",nyj, cle,0.12,6000,2
+77,"Taylor, Tyrod",lac,det,0,6000,2
+78,"Wilson, Russell",sea, nor,41.34,7600,3
+79,"Jones, Daniel",nyg,tam,34.24,6000,3
+80,"Mahomes II, Patrick",kan, bal,27.86,9200,3
+81,"Winston, Jameis",tam, nyg,26.5,7300,3
+82,"Watson, Deshaun",hou,lac,25.84,8200,3
+83,"Allen, Kyle",car,ari,24.34,6000,3
+84,"Prescott, Dak",dal, mia,23.54,8400,3
+85,"Ryan, Matt",atl,ind,23.46,7800,3
+86,"Wentz, Carson",phi, det,21.66,7700,3
+87,"Jackson, Lamar",bal,kan,21.28,8500,3
+88,"Brissett, Jacoby",ind, atl,20.8,6800,3
+89,"Trubisky, Mitchell",chi,was,20.44,6800,3
+90,"Brady, Tom",nwe, nyj,20.14,7800,3
+91,"Murray, Kyler",ari, car,19.82,7200,3
+92,"Rivers, Philip",lac, hou,19.62,7500,3
+93,"Allen, Josh",buf, cin,19.32,7500,3
+94,"Dalton, Andy",cin,buf,18.06,7100,3
+95,"Minshew, Gardner",jac, ten,17.96,6400,3
+96,"Carr, Derek",oak,min,16.68,6700,3
+97,"Bridgewater, Teddy",nor,sea,16.28,6800,3
+98,"Goff, Jared",lar,cle,16.16,7500,3
+99,"Mariota, Marcus",ten,jac,15.56,6800,3
+100,"Rudolph, Mason",pit,sfo,15.46,6600,3
+101,"Keenum, Case",was, chi,14.58,6800,3
+102,"Rodgers, Aaron",gnb, den,13.3,7900,3
+103,"Cousins, Kirk",min, oak,12.56,7200,3
+104,"Stafford, Matthew",det,phi,12.14,6900,3
+105,"Garoppolo, Jimmy",sfo, pit,11.38,7200,3
+106,"Mayfield, Baker",cle, lar,10.7,7500,3
+107,"Rosen, Josh",mia,dal,9.3,6000,3
+108,"Flacco, Joe",den,gnb,6.02,6400,3
+109,"Falk, Luke",nyj,nwe,2.92,6000,3
+110,"Fitzpatrick, Ryan",mia,dal,1.16,6100,3
+111,"Taylor, Tyrod",lac, hou,0,6000,3
+112,"Mannion, Sean",min, oak,-0.2,6000,3
+113,"Stidham, Jarrett",nwe, nyj,-0.44,6000,3
+114,"Winston, Jameis",tam,lar,30.3,7500,4
+115,"Rodgers, Aaron",gnb, phi,26.48,7700,4
+116,"Jackson, Lamar",bal, cle,26.48,8300,4
+117,"Goff, Jared",lar, tam,23.68,7700,4
+118,"Brissett, Jacoby",ind, oak,23.5,7300,4
+119,"Stafford, Matthew",det, kan,23.44,6900,4
+120,"Mariota, Marcus",ten,atl,23.28,6900,4
+121,"Flacco, Joe",den, jac,23.02,6400,4
+122,"Rivers, Philip",lac,mia,20.4,7800,4
+123,"Wentz, Carson",phi,gnb,19.7,7700,4
+124,"Mahomes II, Patrick",kan,det,18,9200,4
+125,"Murray, Kyler",ari, sea,17.34,7600,4
+126,"Rudolph, Mason",pit, cin,16.86,6500,4
+127,"Mayfield, Baker",cle,bal,16.78,7500,4
+128,"Minshew, Gardner",jac,den,16.72,6700,4
+129,"Ryan, Matt",atl, ten,15.68,7900,4
+130,"Jones, Daniel",nyg, was,14.3,7300,4
+131,"Wilson, Russell",sea,ari,14.3,7800,4
+132,"Carr, Derek",oak,ind,13.46,6800,4
+133,"Daniel, Chase",chi, min,12.2,6000,4
+134,"Allen, Josh",buf, nwe,11.72,7400,4
+135,"Watson, Deshaun",hou, car,11.6,8200,4
+136,"Rosen, Josh",mia, lac,10.2,6200,4
+137,"Prescott, Dak",dal,nor,8.62,8400,4
+138,"Bridgewater, Teddy",nor, dal,7.52,7100,4
+139,"Cousins, Kirk",min,chi,7.32,6900,4
+140,"Brady, Tom",nwe,buf,4.7,7800,4
+141,"Dalton, Andy",cin,pit,4.64,7100,4
+142,"Barkley, Matt",buf, nwe,4.08,6000,4
+143,"Haskins, Dwayne",was,nyg,3.58,6000,4
+144,"Allen, Kyle",car,hou,3.28,6800,4
+145,"Keenum, Case",was,nyg,0.48,7200,4
+146,"Trubisky, Mitchell",chi, min,0.36,6800,4
+147,"Taylor, Tyrod",lac,mia,0.18,6000,4
+148,"Watson, Deshaun",hou, atl,41.74,8000,5
+149,"Ryan, Matt",atl,hou,32.9,7700,5
+150,"Wilson, Russell",sea, lar,29.92,7600,5
+151,"Bridgewater, Teddy",nor, tam,28.26,7200,5
+152,"Prescott, Dak",dal, gnb,26.22,8200,5
+153,"Murray, Kyler",ari,cin,25.42,7400,5
+154,"Brady, Tom",nwe,was,24.92,7600,5
+155,"Minshew, Gardner",jac,car,21.16,6600,5
+156,"Cousins, Kirk",min,nyg,20.54,6800,5
+157,"Dalton, Andy",cin, ari,18.98,7500,5
+158,"Goff, Jared",lar,sea,18.9,7500,5
+159,"Mahomes II, Patrick",kan, ind,18.54,9200,5
+160,"Allen, Josh",buf,ten,18.46,7000,5
+161,"Winston, Jameis",tam,nor,17.46,7600,5
+162,"Daniel, Chase",chi,oak,15.44,6500,5
+163,"Garoppolo, Jimmy",sfo, cle,14.94,7200,5
+164,"Jackson, Lamar",bal,pit,14.44,8300,5
+165,"Wentz, Carson",phi, nyj,12.06,7800,5
+166,"Brissett, Jacoby",ind,kan,11.94,7300,5
+167,"Allen, Kyle",car, jac,11.64,6500,5
+168,"Jones, Daniel",nyg, min,11.48,7000,5
+169,"Rodgers, Aaron",gnb,dal,9.42,7800,5
+170,"Rudolph, Mason",pit, bal,9.24,6500,5
+171,"Flacco, Joe",den,lac,8.98,6600,5
+172,"Mariota, Marcus",ten, buf,8.62,6900,5
+173,"Carr, Derek",oak, chi,7.96,6600,5
+174,"Rivers, Philip",lac, den,6.14,7700,5
+175,"McCoy, Colt",was, nwe,5.16,6000,5
+176,"Hodges, Devlin",pit, bal,4.72,0,5
+177,"Falk, Luke",nyj,phi,0.8,6200,5
+178,"Mayfield, Baker",cle,sfo,0,7500,5
+179,"Gilbert, Garrett",cle,sfo,0,6000,5
+180,"Stidham, Jarrett",nwe,was,0,6000,5
+181,"Taylor, Tyrod",lac, den,0,6000,5
+182,"McCown, Josh",phi, nyj,-0.2,6000,5
+183,"Watson, Deshaun",hou,kan,31.4,8400,6
+184,"Ryan, Matt",atl,ari,30.94,8100,6
+185,"Jackson, Lamar",bal, cin,30.64,8200,6
+186,"Wilson, Russell",sea,cle,28.9,8000,6
+187,"Murray, Kyler",ari, atl,28.8,7700,6
+188,"Cousins, Kirk",min, phi,28.32,7000,6
+189,"Brady, Tom",nwe, nyg,22.96,7700,6
+190,"Mayfield, Baker",cle, sea,22.46,7400,6
+191,"Wentz, Carson",phi,min,21.54,7500,6
+192,"Darnold, Sam",nyj, dal,20.62,6700,6
+193,"Mahomes II, Patrick",kan, hou,19.82,9200,6
+194,"Rodgers, Aaron",gnb, det,19.32,7600,6
+195,"Prescott, Dak",dal,nyj,18.18,8000,6
+196,"Allen, Kyle",car,tam,17.38,6500,6
+197,"Winston, Jameis",tam, car,17.1,7600,6
+198,"Rivers, Philip",lac, pit,16.8,7700,6
+199,"Keenum, Case",was,mia,15.64,6500,6
+200,"Dalton, Andy",cin,bal,14.6,7000,6
+201,"Bridgewater, Teddy",nor,jac,13.6,7300,6
+202,"Garoppolo, Jimmy",sfo,lar,13.12,7200,6
+203,"Stafford, Matthew",det,gnb,11.5,7300,6
+204,"Fitzpatrick, Ryan",mia, was,9.78,6000,6
+205,"Hodges, Devlin",pit,lac,9.08,6300,6
+206,"Jones, Daniel",nyg,nwe,8.24,6500,6
+207,"Flacco, Joe",den, ten,5.98,6600,6
+208,"Minshew, Gardner",jac, nor,5.62,6900,6
+209,"Tannehill, Ryan",ten,den,5.36,6000,6
+210,"Rosen, Josh",mia, was,1.4,6400,6
+211,"Goff, Jared",lar, sfo,1.12,7600,6
+212,"Mariota, Marcus",ten,den,0.92,6500,6
+213,"Schaub, Matt",atl,ari,0,6000,6
+214,"Dobbs, Joshua",jac, nor,0,6000,6
+215,"McCown, Josh",phi,min,0,6000,6
+216,"Rodgers, Aaron",gnb, oak,43.76,7600,7
+217,"Stafford, Matthew",det, min,29.56,7300,7
+218,"Cousins, Kirk",min,det,29.18,7300,7
+219,"Brissett, Jacoby",ind, hou,27.64,7300,7
+220,"Goff, Jared",lar,atl,25.02,7800,7
+221,"Jackson, Lamar",bal,sea,23.32,8400,7
+222,"Fitzpatrick, Ryan",mia,buf,21.58,6400,7
+223,"Prescott, Dak",dal, phi,21.56,7800,7
+224,"Dalton, Andy",cin, jac,21.34,6900,7
+225,"Allen, Josh",buf, mia,21.28,7700,7
+226,"Rivers, Philip",lac,ten,21.16,7600,7
+227,"Minshew, Gardner",jac,cin,21,6900,7
+228,"Tannehill, Ryan",ten, lac,20.18,6400,7
+229,"Trubisky, Mitchell",chi, nor,20.04,6800,7
+230,"Bridgewater, Teddy",nor,chi,19.94,7000,7
+231,"Watson, Deshaun",hou,ind,17.52,8300,7
+232,"Carr, Derek",oak,gnb,16.72,6500,7
+233,"Wilson, Russell",sea, bal,15.34,8500,7
+234,"Brady, Tom",nwe,nyj,12.96,7700,7
+235,"Jones, Daniel",nyg, ari,11.42,7200,7
+236,"Moore, Matt",kan,den,8.58,6000,7
+237,"Wentz, Carson",phi,dal,7.84,7500,7
+238,"Mahomes II, Patrick",kan,den,7.24,8800,7
+239,"Garoppolo, Jimmy",sfo,was,7.04,7500,7
+240,"Murray, Kyler",ari,nyg,6.96,7700,7
+241,"Flacco, Joe",den, kan,6.52,6600,7
+242,"Schaub, Matt",atl, lar,6.5,6000,7
+243,"Glennon, Mike",oak,gnb,5.44,6000,7
+244,"Ryan, Matt",atl, lar,3.56,7900,7
+245,"Keenum, Case",was, sfo,3.08,6600,7
+246,"Bortles, Blake",lar,atl,0,6000,7
+247,"Stidham, Jarrett",nwe,nyj,-0.2,6000,7
+248,"Boyle, Tim",gnb, oak,-0.3,6000,7
+249,"Darnold, Sam",nyj, nwe,-2.66,7100,7
+250,"Jones, Daniel",nyg,det,28.18,7000,8
+251,"Watson, Deshaun",hou, oak,27.76,8400,8
+252,"Rodgers, Aaron",gnb,kan,27.1,8000,8
+253,"Brees, Drew",nor, ari,25.92,7200,8
+254,"Stafford, Matthew",det, nyg,24.38,7700,8
+255,"Minshew, Gardner",jac, nyj,23.96,6900,8
+256,"Carr, Derek",oak,hou,23.4,6900,8
+257,"Goff, Jared",lar, cin,22.88,8000,8
+258,"Schaub, Matt",atl, sea,21.4,6600,8
+259,"Winston, Jameis",tam,ten,21.34,7400,8
+260,"Tannehill, Ryan",ten, tam,19.42,6900,8
+261,"Moore, Matt",kan, gnb,18.98,6500,8
+262,"Brady, Tom",nwe, cle,18.36,7900,8
+263,"Dalton, Andy",cin,lar,17.66,6900,8
+264,"Allen, Josh",buf, phi,17.26,7700,8
+265,"Rudolph, Mason",pit, mia,17.04,6800,8
+266,"Wilson, Russell",sea,atl,15.68,8600,8
+267,"Darnold, Sam",nyj,jac,15.62,7400,8
+268,"Wentz, Carson",phi,buf,14.38,7400,8
+269,"Garoppolo, Jimmy",sfo, car,14,7400,8
+270,"Fitzpatrick, Ryan",mia,pit,13.3,6800,8
+271,"Mayfield, Baker",cle,nwe,12.56,7300,8
+272,"Cousins, Kirk",min, was,11.6,7800,8
+273,"Rivers, Philip",lac,chi,11.04,7300,8
+274,"Murray, Kyler",ari,nor,10.1,7400,8
+275,"Brissett, Jacoby",ind, den,9.48,7500,8
+276,"Trubisky, Mitchell",chi, lac,8.12,6700,8
+277,"Flacco, Joe",den,ind,7.86,6500,8
+278,"Allen, Kyle",car,sfo,3.32,7000,8
+279,"Keenum, Case",was,min,3.2,6400,8
+280,"Haskins, Dwayne",was,min,0.32,6000,8
+281,"Hundley, Brett",ari,nor,0,6000,8
+282,"Bridgewater, Teddy",nor, ari,-0.2,7500,8
+283,"Mullens, Nick",sfo, car,-0.3,6000,8
