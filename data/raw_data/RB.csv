@@ -1,0 +1,850 @@
+,name,team,opponent,points,salary,week
+0,"McCaffrey, Christian",car, lar,37.9,8900,1
+1,"Ekeler, Austin",lac, ind,36.4,6400,1
+2,"Henry, Derrick",ten,cle,28.4,6800,1
+3,"Mack, Marlon",ind,lac,25.4,6900,1
+4,"Cook, Dalvin",min, atl,25,7400,1
+5,"Jacobs, Josh",oak, den,23.8,6500,1
+6,"Johnson, David",ari, det,22.7,8100,1
+7,"Ingram, Mark",bal,mia,22.7,6600,1
+8,"Carson, Chris",sea, cin,21.1,6600,1
+9,"Kamara, Alvin",nor, hou,20.4,8700,1
+10,"Bell, Le'Veon",nyj, buf,20.2,7900,1
+11,"Brown, Malcolm",lar,car,17.3,4900,1
+12,"Barkley, Saquon",nyg,dal,15.9,9200,1
+13,"Williams, Damien",kan,jac,15.5,6900,1
+14,"Elliott, Ezekiel",dal, nyg,12.8,9100,1
+15,"Singletary, Devin",buf,nyj,12.3,5300,1
+16,"Murray, Latavius",nor, hou,11.7,5900,1
+17,"Gallman, Wayne",nyg,dal,11.6,4500,1
+18,"Thompson, Chris",was,phi,11.3,5100,1
+19,"Burkhead, Rex",nwe, pit,11,4800,1
+20,"Johnson, Duke",hou,nor,11,6100,1
+21,"White, James",nwe, pit,10.7,6300,1
+22,"Gurley, Todd",lar,car,10.6,7600,1
+23,"Chubb, Nick",cle, ten,10,7400,1
+24,"Jones, Ronald",tam, sfo,9.8,5600,1
+25,"McCoy, LeSean",kan,jac,9.8,5800,1
+26,"Sproles, Darren",phi, was,9.8,4600,1
+27,"Fournette, Leonard",jac, kan,9.4,7200,1
+28,"Hyde, Carlos",hou,nor,9,5400,1
+29,"Cohen, Tarik",chi, gnb,8.9,6300,1
+30,"Lindsay, Phillip",den,oak,8.6,6600,1
+31,"Conner, James",pit,nwe,8.5,7700,1
+32,"Hilliard, Dontrell",cle, ten,8.3,4800,1
+33,"Bernard, Giovani",cin,sea,7.3,5200,1
+34,"Johnson, Kerryon",det,ari,7.2,7000,1
+35,"Coleman, Tevin",sfo,tam,6.6,6300,1
+36,"Davis, Mike",chi, gnb,6.6,4900,1
+37,"Jackson, Justin",lac, ind,6.6,5900,1
+38,"Freeman, Royce",den,oak,6.6,5900,1
+39,"Ricard, Patrick",bal,mia,6.6,4500,1
+40,"Howard, Jordan",phi, was,6.5,5800,1
+41,"Armah, Alex",car, lar,6.1,4500,1
+42,"Edwards, Gus",bal,mia,5.6,4800,1
+43,"Barber, Peyton",tam, sfo,5.5,5500,1
+44,"Guice, Derrius",was,phi,5.3,5900,1
+45,"Ogunbowale, Dare",tam, sfo,5.3,4500,1
+46,"Montgomery, David",chi, gnb,5,6400,1
+47,"Mattison, Alexander",min, atl,4.9,4900,1
+48,"Johnson, D'Ernest",cle, ten,4.6,4500,1
+49,"Mostert, Raheem",sfo,tam,4.5,4500,1
+50,"Smith, Ito",atl,min,4.5,5400,1
+51,"Jones, Aaron",gnb,chi,4.4,6800,1
+52,"Hines, Nyheim",ind,lac,3.7,5300,1
+53,"Breida, Matt",sfo,tam,3.7,5400,1
+54,"Drake, Kenyan",mia, bal,3.7,6000,1
+55,"Anderson, C.J.",det,ari,3.5,5300,1
+56,"McKissic, J.D.",det,ari,3.4,4500,1
+57,"Sanders, Miles",phi, was,3.2,6000,1
+58,"Lewis, Dion",ten,cle,2.8,5600,1
+59,"Hill, Justice",bal,mia,2.7,5000,1
+60,"Mixon, Joe",cin,sea,2.7,7800,1
+61,"Freeman, Devonta",atl,min,2.6,6700,1
+62,"Williams, Jamaal",gnb,chi,2.5,5300,1
+63,"Pollard, Tony",dal, nyg,2.4,5200,1
+64,"Sherman, Anthony",kan,jac,2,4500,1
+65,"Gore, Frank",buf,nyj,2,4900,1
+66,"DiMarco, Patrick",buf,nyj,1.9,4500,1
+67,"Penny, Rashaad",sea, cin,1.8,5900,1
+68,"Ballage, Kalen",mia, bal,1.7,5700,1
+69,"Michel, Sony",nwe, pit,1.4,6600,1
+70,"Samuels, Jaylen",pit,nwe,1.1,5400,1
+71,"Thompson, Darwin",kan,jac,0.8,4500,1
+72,"Abdullah, Ameer",min, atl,0.8,4500,1
+73,"Washington, DeAndre",oak, den,0.8,4500,1
+74,"Bolden, Brandon",nwe, pit,0.7,4500,1
+75,"Armstead, Ryquell",jac, kan,0.7,4500,1
+76,"Johnson, Ty",det,ari,0.6,4500,1
+77,"Bawden, Nick",det,ari,0.5,4500,1
+78,"Edmonds, Chase",ari, det,0.5,5100,1
+79,"Watt, Derek",lac, ind,0.4,4500,1
+80,"Montgomery, Ty",nyj, buf,0.4,4900,1
+81,"Penny, Elijhaa",nyg,dal,0.3,4500,1
+82,"Richard, Jalen",oak, den,0.3,5100,1
+83,"Walton, Mark",mia, bal,0.1,4500,1
+84,"Boone, Mike",min, atl,0,4500,1
+85,"Develin, James",nwe, pit,0,4500,1
+86,"Washington, Dwayne",nor, hou,0,4500,1
+87,"Bonnafon, Reggie",car, lar,0,4500,1
+88,"Pope, Troymaine",lac, ind,0,4500,1
+89,"Bellore, Nick",sea, cin,0,4500,1
+90,"Ham, C.J.",min, atl,0,4500,1
+91,"Smallwood, Wendell",was,phi,0,4700,1
+92,"Line, Zach",nor, hou,0,4500,1
+93,"Wilkins, Jordan",ind,lac,0,4600,1
+94,"Gillaspia, Cullen",hou,nor,0,4500,1
+95,"Foster, D.J.",ari, det,0,4500,1
+96,"Cox, Chandler",mia, bal,0,4500,1
+97,"Chunn, Jordan",dal, nyg,0,4500,1
+98,"Barner, Kenjon",atl,min,0,4500,1
+99,"Williams, Darrel",kan,jac,0,4800,1
+100,"Howell, Buddy",hou,nor,0,4500,1
+101,"Booker, Devontae",den,oak,0,4500,1
+102,"Homer, Travis",sea, cin,0,4500,1
+103,"Smith, Keith",atl,min,0,4500,1
+104,"Nix, Roosevelt",pit,nwe,0,4500,1
+105,"Ervin, Tyler",jac, kan,0,4500,1
+106,"Jones, Taiwan",hou,nor,0,4500,1
+107,"Prosise, C.J.",sea, cin,0,4500,1
+108,"Perine, Samaje",cin,sea,0,4500,1
+109,"Snell, Benny",pit,nwe,0,4500,1
+110,"Scarlett, Jordan",car, lar,0,4700,1
+111,"Ingold, Alec",oak, den,0,4500,1
+112,"Henderson, Darrell",lar,car,0,5400,1
+113,"Clement, Corey",phi, was,0,4500,1
+114,"Yeldon, T.J.",buf,nyj,0,4600,1
+115,"Fluellen, David",ten,cle,0,4500,1
+116,"Logan, T.J.",tam, sfo,0,4500,1
+117,"Juszczyk, Kyle",sfo,tam,0,4600,1
+118,"Olawale, Jamize",dal, nyg,0,4500,1
+119,"Cannon, Trenton",nyj, buf,0,4600,1
+120,"Vitale, Dan",gnb,chi,0,4500,1
+121,"Cook, Dalvin",min,gnb,26.6,7900,2
+122,"Jones, Aaron",gnb, min,23,6400,2
+123,"Mostert, Raheem",sfo,cin,22.6,5600,2
+124,"Barkley, Saquon",nyg, buf,21,9200,2
+125,"Ekeler, Austin",lac,det,20.3,7500,2
+126,"Elliott, Ezekiel",dal,was,19,8500,2
+127,"Chubb, Nick",cle,nyj,17.8,7300,2
+128,"Henry, Derrick",ten, ind,16.3,7500,2
+129,"Bell, Le'Veon",nyj, cle,15.9,7900,2
+130,"Johnson, Kerryon",det, lac,15.8,6600,2
+131,"Wilson Jr., Jeff",sfo,cin,15.4,4500,2
+132,"Barber, Peyton",tam,car,15.4,5400,2
+133,"Gore, Frank",buf,nyg,15.3,4900,2
+134,"Gurley, Todd",lar, nor,14.2,7000,2
+135,"Breida, Matt",sfo,cin,13.7,5600,2
+136,"Montgomery, David",chi,den,13.3,5800,2
+137,"Penny, Rashaad",sea,pit,13,5100,2
+138,"Freeman, Royce",den, chi,12.7,5900,2
+139,"Michel, Sony",nwe,mia,12.5,6800,2
+140,"Conner, James",pit, sea,12,7700,2
+141,"Singletary, Devin",buf,nyg,11.7,5700,2
+142,"Williams, Jamaal",gnb, min,11.6,4800,2
+143,"Fournette, Leonard",jac,hou,10.7,6900,2
+144,"White, James",nwe,mia,10.4,6300,2
+145,"Peterson, Adrian",was, dal,10.2,4800,2
+146,"Jacobs, Josh",oak, kan,9.9,6500,2
+147,"Wilkins, Jordan",ind,ten,9.1,4600,2
+148,"Hyde, Carlos",hou, jac,9,5400,2
+149,"Ingram, Mark",bal, ari,8.7,7500,2
+150,"Lindsay, Phillip",den, chi,8.6,6600,2
+151,"Carson, Chris",sea,pit,8.2,7400,2
+152,"Johnson, David",ari,bal,7.9,7300,2
+153,"Freeman, Devonta",atl, phi,7.9,6200,2
+154,"Burkhead, Rex",nwe,mia,7.8,4600,2
+155,"Thompson, Chris",was, dal,7.6,5300,2
+156,"Mack, Marlon",ind,ten,7.3,7400,2
+157,"Drake, Kenyan",mia, nwe,7.3,5500,2
+158,"Williams, Damien",kan,oak,7.1,6600,2
+159,"Jackson, Justin",lac,det,6.9,6100,2
+160,"Kamara, Alvin",nor,lar,6.5,8700,2
+161,"Johnson, D'Ernest",cle,nyj,6.5,4700,2
+162,"McCaffrey, Christian",car, tam,6.3,9200,2
+163,"Smith, Ito",atl, phi,5.5,5300,2
+164,"Montgomery, Ty",nyj, cle,5.5,4600,2
+165,"Sanders, Miles",phi,atl,5.2,5400,2
+166,"Brown, Malcolm",lar, nor,5.2,5500,2
+167,"Johnson, Ty",det, lac,4.6,4500,2
+168,"Washington, DeAndre",oak, kan,4.5,4500,2
+169,"Mixon, Joe",cin, sfo,4.2,7500,2
+170,"McCoy, LeSean",kan,oak,3.8,5800,2
+171,"Samuels, Jaylen",pit, sea,3.6,5400,2
+172,"Cohen, Tarik",chi,den,3.5,6100,2
+173,"Prosise, C.J.",sea,pit,3.5,4500,2
+174,"Walton, Mark",mia, nwe,3.2,4500,2
+175,"Howard, Jordan",phi,atl,3.1,5600,2
+176,"Johnson, Duke",hou, jac,3.1,6100,2
+177,"Pollard, Tony",dal,was,3,4800,2
+178,"Murray, Latavius",nor,lar,2.8,5900,2
+179,"Edmonds, Chase",ari,bal,2.7,5100,2
+180,"Mattison, Alexander",min,gnb,2.5,4900,2
+181,"Smallwood, Wendell",was, dal,2.3,4500,2
+182,"Snell, Benny",pit, sea,2.3,4500,2
+183,"Hines, Nyheim",ind,ten,1.9,5300,2
+184,"Hill, Justice",bal, ari,1.9,4900,2
+185,"Lewis, Dion",ten, ind,1.9,5200,2
+186,"Bernard, Giovani",cin, sfo,1.8,5700,2
+187,"Ballage, Kalen",mia, nwe,1.7,5100,2
+188,"Juszczyk, Kyle",sfo,cin,1.6,4600,2
+189,"Richard, Jalen",oak, kan,1.5,5100,2
+190,"Sproles, Darren",phi,atl,1.5,4600,2
+191,"Ogunbowale, Dare",tam,car,1.4,4500,2
+192,"Edwards, Gus",bal, ari,1.1,5200,2
+193,"Jones, Ronald",tam,car,0.9,5500,2
+194,"DiMarco, Patrick",buf,nyg,0.9,0,2
+195,"Anderson, C.J.",det, lac,0.8,4900,2
+196,"Watt, Derek",lac,det,0.8,4500,2
+197,"Ricard, Patrick",bal, ari,0.8,0,2
+198,"Develin, James",nwe,mia,0.3,4500,2
+199,"Abdullah, Ameer",min,gnb,0.2,4500,2
+200,"McKissic, J.D.",det, lac,0.2,4500,2
+201,"Thompson, Darwin",kan,oak,0.1,4500,2
+202,"Davis, Mike",chi,den,0.1,4900,2
+203,"Boone, Mike",min,gnb,0,4500,2
+204,"Washington, Dwayne",nor,lar,0,4500,2
+205,"Bonnafon, Reggie",car, tam,0,4500,2
+206,"Bellore, Nick",sea,pit,0,4500,2
+207,"Ham, C.J.",min,gnb,0,4500,2
+208,"Line, Zach",nor,lar,0,4500,2
+209,"Bawden, Nick",det, lac,0,4500,2
+210,"Gillaspia, Cullen",hou, jac,0,4500,2
+211,"Foster, D.J.",ari,bal,0,4500,2
+212,"Cox, Chandler",mia, nwe,0,4500,2
+213,"Penny, Elijhaa",nyg, buf,0,4500,2
+214,"Barner, Kenjon",atl, phi,0,4500,2
+215,"Williams, Darrel",kan,oak,0,4600,2
+216,"Sherman, Anthony",kan,oak,0,4500,2
+217,"Howell, Buddy",hou, jac,0,4500,2
+218,"Booker, Devontae",den, chi,0,4500,2
+219,"Homer, Travis",sea,pit,0,4500,2
+220,"Armah, Alex",car, tam,0,4500,2
+221,"Ervin, Tyler",jac,hou,0,4500,2
+222,"Armstead, Ryquell",jac,hou,0,4500,2
+223,"Perine, Samaje",cin, sfo,0,4500,2
+224,"Ingold, Alec",oak, kan,0,4500,2
+225,"Yeldon, T.J.",buf,nyg,0,4600,2
+226,"Logan, T.J.",tam,car,0,4500,2
+227,"Olawale, Jamize",dal,was,0,4500,2
+228,"Cannon, Trenton",nyj, cle,0,4600,2
+229,"Gallman, Wayne",nyg, buf,0,4500,2
+230,"Vitale, Dan",gnb, min,0,4500,2
+231,"Clement, Corey",phi,atl,-2,4500,2
+232,"Ingram, Mark",bal,kan,33.5,7100,3
+233,"Kamara, Alvin",nor,sea,32.6,8000,3
+234,"Lindsay, Phillip",den,gnb,27,6400,3
+235,"McCaffrey, Christian",car,ari,26.3,8900,3
+236,"Cook, Dalvin",min, oak,22.3,8300,3
+237,"McCoy, LeSean",kan, bal,21.5,5500,3
+238,"Pollard, Tony",dal, mia,20.3,5000,3
+239,"Mixon, Joe",cin,buf,16.5,6500,3
+240,"Burkhead, Rex",nwe, nyj,15.9,4600,3
+241,"Gore, Frank",buf, cin,15.9,5700,3
+242,"Mack, Marlon",ind, atl,15.8,7000,3
+243,"Johnson, David",ari, car,15.5,7000,3
+244,"Chubb, Nick",cle, lar,15.1,7300,3
+245,"Elliott, Ezekiel",dal, mia,14.9,8800,3
+246,"Jones, Aaron",gnb, den,14.8,6900,3
+247,"Wilson Jr., Jeff",sfo, pit,13.8,5300,3
+248,"Williams, Darrel",kan, bal,13.4,4600,3
+249,"Thompson, Chris",was, chi,12.8,5300,3
+250,"Jones, Ronald",tam, nyg,12.6,4900,3
+251,"Fournette, Leonard",jac, ten,12.2,6600,3
+252,"Mattison, Alexander",min, oak,11.8,4900,3
+253,"Sanders, Miles",phi, det,11.6,5400,3
+254,"Ekeler, Austin",lac, hou,11.6,7600,3
+255,"Henry, Derrick",ten,jac,11.1,7300,3
+256,"Freeman, Devonta",atl,ind,11,6200,3
+257,"Johnson, Kerryon",det,phi,10.8,6600,3
+258,"Breida, Matt",sfo, pit,9.8,5900,3
+259,"Howard, Jordan",phi, det,9.7,5600,3
+260,"Williams, Jamaal",gnb, den,9.6,5100,3
+261,"Montgomery, David",chi,was,9.6,6000,3
+262,"Freeman, Royce",den,gnb,9.3,5900,3
+263,"Bell, Le'Veon",nyj,nwe,8.3,7700,3
+264,"Hyde, Carlos",hou,lac,7.9,6000,3
+265,"Edwards, Gus",bal,kan,7.8,5000,3
+266,"Michel, Sony",nwe, nyj,7.1,6800,3
+267,"Prosise, C.J.",sea, nor,6.8,4500,3
+268,"Drake, Kenyan",mia,dal,6.7,5300,3
+269,"Juszczyk, Kyle",sfo, pit,6.6,4500,3
+270,"Barber, Peyton",tam, nyg,6.5,6100,3
+271,"Mostert, Raheem",sfo, pit,5.9,6000,3
+272,"Conner, James",pit,sfo,5.7,7400,3
+273,"Barkley, Saquon",nyg,tam,5.7,9200,3
+274,"Jackson, Justin",lac, hou,5,5800,3
+275,"Hines, Nyheim",ind, atl,4.4,4800,3
+276,"Richard, Jalen",oak,min,4.4,5100,3
+277,"Jacobs, Josh",oak,min,4.4,6500,3
+278,"McKissic, J.D.",det,phi,4.4,4500,3
+279,"Gurley, Todd",lar,cle,4.3,6800,3
+280,"Peterson, Adrian",was, chi,3.9,5500,3
+281,"Yeldon, T.J.",buf, cin,3.9,4600,3
+282,"Ogunbowale, Dare",tam, nyg,3.8,4500,3
+283,"Carson, Chris",sea, nor,3.6,7000,3
+284,"Cohen, Tarik",chi,was,3.4,5800,3
+285,"Johnson, Duke",hou,lac,3.4,5400,3
+286,"Ballage, Kalen",mia,dal,3.2,4900,3
+287,"Vitale, Dan",gnb, den,3.2,4500,3
+288,"Edmonds, Chase",ari, car,3,4900,3
+289,"Bolden, Brandon",nwe, nyj,2.9,4500,3
+290,"Boone, Mike",min, oak,2.8,4500,3
+291,"Lewis, Dion",ten,jac,2.5,5000,3
+292,"Bernard, Giovani",cin,buf,2.2,5200,3
+293,"Washington, DeAndre",oak,min,2.2,4500,3
+294,"Bawden, Nick",det,phi,1.5,4500,3
+295,"Gallman, Wayne",nyg,tam,1.3,4500,3
+296,"Armah, Alex",car,ari,1.1,4500,3
+297,"Johnson, Ty",det,phi,1,4500,3
+298,"Barner, Kenjon",atl,ind,0.9,4500,3
+299,"Thompson, Darwin",kan, bal,0.8,4500,3
+300,"Brown, Malcolm",lar,cle,0.7,5500,3
+301,"Snell, Benny",pit,sfo,0.6,4500,3
+302,"Bonnafon, Reggie",car,ari,0.5,4500,3
+303,"Ham, C.J.",min, oak,0.5,4500,3
+304,"Sproles, Darren",phi, det,0.4,4600,3
+305,"Davis, Mike",chi,was,0.2,4900,3
+306,"Murray, Latavius",nor,sea,0.2,5600,3
+307,"Hill, Justice",bal,kan,0.1,4700,3
+308,"Montgomery, Ty",nyj,nwe,0.1,4600,3
+309,"Samuels, Jaylen",pit,sfo,0,6100,3
+310,"Washington, Dwayne",nor,sea,0,4500,3
+311,"Pope, Troymaine",lac, hou,0,4500,3
+312,"Harris, Damien",nwe, nyj,0,5400,3
+313,"Bellore, Nick",sea, nor,0,4500,3
+314,"Powell, Bilal",nyj,nwe,0,4500,3
+315,"Smallwood, Wendell",was, chi,0,4500,3
+316,"Line, Zach",nor,sea,0,4500,3
+317,"Smith, Ito",atl,ind,0,5300,3
+318,"Gillaspia, Cullen",hou,lac,0,4500,3
+319,"Foster, D.J.",ari, car,0,4500,3
+320,"Cox, Chandler",mia,dal,0,4500,3
+321,"Penny, Elijhaa",nyg,tam,0,4500,3
+322,"Abdullah, Ameer",min, oak,0,4500,3
+323,"Sherman, Anthony",kan, bal,0,4500,3
+324,"Johnson, D'Ernest",cle, lar,0,4700,3
+325,"Howell, Buddy",hou,lac,0,4500,3
+326,"Booker, Devontae",den,gnb,0,4500,3
+327,"Homer, Travis",sea, nor,0,4500,3
+328,"Ervin, Tyler",jac, ten,0,4500,3
+329,"Hilliard, Dontrell",cle, lar,0,4800,3
+330,"Armstead, Ryquell",jac, ten,0,4500,3
+331,"Perine, Samaje",cin,buf,0,4500,3
+332,"Ingold, Alec",oak,min,0,4500,3
+333,"Logan, T.J.",tam, nyg,0,4500,3
+334,"Olawale, Jamize",dal, mia,0,4500,3
+335,"Cannon, Trenton",nyj,nwe,0,4600,3
+336,"Watt, Derek",lac, hou,-0.1,4500,3
+337,"Wilkins, Jordan",ind, atl,-0.2,5100,3
+338,"Chubb, Nick",cle,bal,37.8,7300,4
+339,"Howard, Jordan",phi,gnb,31,5500,4
+340,"McCaffrey, Christian",car,hou,28.9,9000,4
+341,"Ekeler, Austin",lac,mia,26.7,8100,4
+342,"Fournette, Leonard",jac,den,25.5,6400,4
+343,"Gallman, Wayne",nyg, was,24.8,5800,4
+344,"Gurley, Todd",lar, tam,22.5,6800,4
+345,"Conner, James",pit, cin,22.5,6900,4
+346,"Samuels, Jaylen",pit, cin,19.54,5000,4
+347,"Johnson, David",ari, sea,17.9,6800,4
+348,"Williams, Darrel",kan,det,17.1,5500,4
+349,"Carson, Chris",sea,ari,16.5,7000,4
+350,"Cook, Dalvin",min,chi,16,8300,4
+351,"McCoy, LeSean",kan,det,15.9,6300,4
+352,"Jones, Aaron",gnb, phi,14.8,6900,4
+353,"Johnson, Kerryon",det, kan,14.7,6500,4
+354,"Jones, Ronald",tam,lar,14.7,5100,4
+355,"Freeman, Devonta",atl, ten,14,6200,4
+356,"Elliott, Ezekiel",dal,nor,13.5,8800,4
+357,"Hilliard, Dontrell",cle,bal,12.4,4800,4
+358,"Jacobs, Josh",oak,ind,11.8,6000,4
+359,"Armstead, Ryquell",jac,den,11.4,4500,4
+360,"Henry, Derrick",ten,atl,11.3,7000,4
+361,"Gore, Frank",buf, nwe,10.9,5700,4
+362,"Pope, Troymaine",lac,mia,10.4,4500,4
+363,"Kamara, Alvin",nor, dal,10.4,8000,4
+364,"Smith, Ito",atl, ten,10.1,4800,4
+365,"White, James",nwe,buf,9.8,6200,4
+366,"Drake, Kenyan",mia, lac,8.8,5300,4
+367,"Cohen, Tarik",chi, min,8.8,5800,4
+368,"Johnson, Duke",hou, car,8.8,5300,4
+369,"Yeldon, T.J.",buf, nwe,8.8,4600,4
+370,"Hyde, Carlos",hou, car,8.4,5900,4
+371,"Mixon, Joe",cin,pit,8.3,6800,4
+372,"Montgomery, David",chi, min,8.2,6000,4
+373,"Thompson, Chris",was,nyg,8,5300,4
+374,"Barber, Peyton",tam,lar,7.9,5700,4
+375,"Ingram, Mark",bal, cle,7.6,7800,4
+376,"Hines, Nyheim",ind, oak,7.5,4800,4
+377,"Sanders, Miles",phi,gnb,7.2,5700,4
+378,"Freeman, Royce",den, jac,7,5500,4
+379,"Lindsay, Phillip",den, jac,6.5,6900,4
+380,"Bolden, Brandon",nwe,buf,6.4,4500,4
+381,"Prosise, C.J.",sea,ari,6.4,4800,4
+382,"Michel, Sony",nwe,buf,6.3,6100,4
+383,"McKissic, J.D.",det, kan,4.6,4600,4
+384,"Walton, Mark",mia, lac,4.4,4500,4
+385,"Edwards, Gus",bal, cle,4.1,5300,4
+386,"Lewis, Dion",ten,atl,4,4900,4
+387,"Bernard, Giovani",cin,pit,3.9,4800,4
+388,"Mack, Marlon",ind, oak,3.9,7300,4
+389,"Edmonds, Chase",ari, sea,3.7,4700,4
+390,"Washington, DeAndre",oak,ind,3.6,4500,4
+391,"Wilkins, Jordan",ind, oak,3.3,4900,4
+392,"Ogunbowale, Dare",tam,lar,3.1,4500,4
+393,"Peterson, Adrian",was,nyg,2.8,5500,4
+394,"Vitale, Dan",gnb, phi,2.8,4500,4
+395,"Hill, Justice",bal, cle,2.7,4500,4
+396,"Watt, Derek",lac,mia,2.6,4500,4
+397,"Ham, C.J.",min,chi,2.5,4500,4
+398,"Murray, Latavius",nor, dal,2.5,5200,4
+399,"Abdullah, Ameer",min,chi,2.4,4500,4
+400,"Richard, Jalen",oak,ind,2.3,5000,4
+401,"Smallwood, Wendell",was,nyg,1.9,4500,4
+402,"Johnson, Ty",det, kan,1.9,4500,4
+403,"Mattison, Alexander",min,chi,1.8,4900,4
+404,"Brown, Malcolm",lar, tam,1.4,5500,4
+405,"Hilliman, Jon",nyg, was,1.3,4500,4
+406,"Burkhead, Rex",nwe,buf,1.2,5600,4
+407,"Penny, Elijhaa",nyg, was,1.2,5000,4
+408,"Bawden, Nick",det, kan,0.9,4500,4
+409,"Line, Zach",nor, dal,0.8,4500,4
+410,"Ballage, Kalen",mia, lac,0.7,4900,4
+411,"Williams, Jamaal",gnb, phi,0.5,5400,4
+412,"Sproles, Darren",phi,gnb,0.4,4600,4
+413,"Snell, Benny",pit, cin,0.1,4500,4
+414,"Ingold, Alec",oak,ind,0.1,4500,4
+415,"Thompson, Darwin",kan,det,0,4500,4
+416,"Boone, Mike",min,chi,0,4500,4
+417,"Washington, Dwayne",nor, dal,0,4500,4
+418,"Bonnafon, Reggie",car,hou,0,4500,4
+419,"Bellore, Nick",sea,ari,0,4500,4
+420,"Pollard, Tony",dal,nor,0,5000,4
+421,"Gillaspia, Cullen",hou, car,0,4500,4
+422,"Foster, D.J.",ari, sea,0,4500,4
+423,"Cox, Chandler",mia, lac,0,4500,4
+424,"Sherman, Anthony",kan,det,0,4500,4
+425,"Johnson, D'Ernest",cle,bal,0,4700,4
+426,"Howell, Buddy",hou, car,0,4500,4
+427,"Booker, Devontae",den, jac,0,4500,4
+428,"Homer, Travis",sea,ari,0,4500,4
+429,"Armah, Alex",car,hou,0,4500,4
+430,"Ervin, Tyler",jac,den,0,4500,4
+431,"Jones, Taiwan",hou, car,0,4500,4
+432,"Perine, Samaje",cin,pit,0,4500,4
+433,"Janovich, Andy",den, jac,0,4500,4
+434,"Scarlett, Jordan",car,hou,0,4500,4
+435,"Henderson, Darrell",lar, tam,0,4700,4
+436,"Clement, Corey",phi,gnb,0,4500,4
+437,"Fluellen, David",ten,atl,0,4500,4
+438,"Logan, T.J.",tam,lar,0,4500,4
+439,"Olawale, Jamize",dal,nor,0,4500,4
+440,"Hill, Brian",atl, ten,0,4500,4
+441,"Jones, Aaron",gnb,dal,45.7,6800,5
+442,"McCaffrey, Christian",car, jac,44.7,9100,5
+443,"Jacobs, Josh",oak, chi,27.8,6000,5
+444,"Breida, Matt",sfo, cle,26.4,5900,5
+445,"Cook, Dalvin",min,nyg,22.8,8200,5
+446,"Lindsay, Phillip",den,lac,22.7,6700,5
+447,"Fournette, Leonard",jac,car,21.7,6900,5
+448,"Michel, Sony",nwe,was,19.8,6300,5
+449,"Carson, Chris",sea, lar,18.8,6900,5
+450,"Gurley, Todd",lar,sea,17.2,6700,5
+451,"Johnson, David",ari,cin,17.1,6800,5
+452,"Mack, Marlon",ind,kan,16.3,6700,5
+453,"Elliott, Ezekiel",dal, gnb,16.1,8800,5
+454,"Edmonds, Chase",ari,cin,16.1,4700,5
+455,"Coleman, Tevin",sfo, cle,15.7,5000,5
+456,"Freeman, Devonta",atl,hou,15.5,6200,5
+457,"Ekeler, Austin",lac, den,14.8,7200,5
+458,"Bonnafon, Reggie",car, jac,14,4500,5
+459,"Kamara, Alvin",nor, tam,13.92,8200,5
+460,"Henry, Derrick",ten, buf,13.8,6700,5
+461,"Bell, Le'Veon",nyj,phi,12.3,7300,5
+462,"Howard, Jordan",phi, nyj,12.2,6500,5
+463,"Hyde, Carlos",hou, atl,12,5600,5
+464,"Ingram, Mark",bal,pit,11.9,7500,5
+465,"Conner, James",pit, bal,11.5,6900,5
+466,"Mixon, Joe",cin, ari,11.4,7100,5
+467,"Washington, DeAndre",oak, chi,11.1,4500,5
+468,"Bolden, Brandon",nwe,was,10.7,4800,5
+469,"Chubb, Nick",cle,sfo,10.4,7800,5
+470,"White, James",nwe,was,10.2,6200,5
+471,"Montgomery, David",chi,oak,10.1,5700,5
+472,"Barber, Peyton",tam,nor,9.6,5500,5
+473,"Smith, Ito",atl,hou,9.4,4800,5
+474,"Sanders, Miles",phi, nyj,8.4,6000,5
+475,"Gore, Frank",buf,ten,7.9,5700,5
+476,"Cohen, Tarik",chi,oak,7.9,5900,5
+477,"Freeman, Royce",den,lac,7.7,5400,5
+478,"Johnson, Duke",hou, atl,7.2,5300,5
+479,"Jones, Ronald",tam,nor,6.6,5900,5
+480,"Hines, Nyheim",ind,kan,6.5,4800,5
+481,"Thompson, Chris",was, nwe,6.3,5400,5
+482,"Penny, Rashaad",sea, lar,5.9,5900,5
+483,"Gordon, Melvin",lac, den,5.8,6800,5
+484,"Williams, Damien",kan, ind,5.3,6400,5
+485,"Mattison, Alexander",min,nyg,5.2,4900,5
+486,"Carson, Tra",gnb,dal,5.2,4500,5
+487,"Yeldon, T.J.",buf,ten,4.8,4800,5
+488,"Murray, Latavius",nor, tam,4.4,5200,5
+489,"Richard, Jalen",oak, chi,4.2,5000,5
+490,"Bernard, Giovani",cin, ari,4.1,5000,5
+491,"Lewis, Dion",ten, buf,4,4900,5
+492,"Mostert, Raheem",sfo, cle,3.4,5700,5
+493,"Ogunbowale, Dare",tam,nor,3.3,4500,5
+494,"Juszczyk, Kyle",sfo, cle,3,4500,5
+495,"Hilliman, Jon",nyg, min,2.9,4500,5
+496,"Penny, Elijhaa",nyg, min,2.9,5000,5
+497,"Edwards, Gus",bal,pit,2.8,5100,5
+498,"Wilkins, Jordan",ind,kan,2.8,4900,5
+499,"Smallwood, Wendell",was, nwe,2.7,4500,5
+500,"Abdullah, Ameer",min,nyg,2.4,4500,5
+501,"Samuels, Jaylen",pit, bal,1.96,5000,5
+502,"Pollard, Tony",dal, gnb,1.9,5000,5
+503,"Peterson, Adrian",was, nwe,1.8,5300,5
+504,"Gallman, Wayne",nyg, min,1.4,6300,5
+505,"Vitale, Dan",gnb,dal,1.4,4500,5
+506,"Watt, Derek",lac, den,1.3,4500,5
+507,"McCoy, LeSean",kan, ind,1.3,6300,5
+508,"Johnson, D'Ernest",cle,sfo,1.1,4700,5
+509,"Armstead, Ryquell",jac,car,1.1,4500,5
+510,"Johnson, Jakob",nwe,was,1,4500,5
+511,"Armah, Alex",car, jac,0.9,4500,5
+512,"Hill, Justice",bal,pit,0.7,4500,5
+513,"Powell, Bilal",nyj,phi,0.4,4500,5
+514,"Ham, C.J.",min,nyg,0.4,4500,5
+515,"Sproles, Darren",phi, nyj,0.4,4600,5
+516,"Brown, Malcolm",lar,sea,0.3,5100,5
+517,"Ingold, Alec",oak, chi,0.3,4500,5
+518,"Sherman, Anthony",kan, ind,0.2,4500,5
+519,"Montgomery, Ty",nyj,phi,0.1,4600,5
+520,"Boone, Mike",min,nyg,0,4500,5
+521,"Washington, Dwayne",nor, tam,0,4500,5
+522,"Pope, Troymaine",lac, den,0,5000,5
+523,"Bellore, Nick",sea, lar,0,4500,5
+524,"Line, Zach",nor, tam,0,4500,5
+525,"Davis, Mike",chi,oak,0,4700,5
+526,"Gillaspia, Cullen",hou, atl,0,4500,5
+527,"Foster, D.J.",ari,cin,0,4500,5
+528,"Williams, Darrel",kan, ind,0,6000,5
+529,"Howell, Buddy",hou, atl,0,4500,5
+530,"Booker, Devontae",den,lac,0,4500,5
+531,"Homer, Travis",sea, lar,0,4500,5
+532,"Hilliard, Dontrell",cle,sfo,0,4800,5
+533,"Jones, Taiwan",hou, atl,0,4500,5
+534,"Perine, Samaje",cin, ari,0,4500,5
+535,"Williams, Jonathan",ind,kan,0,4500,5
+536,"Snell, Benny",pit, bal,0,4500,5
+537,"Janovich, Andy",den,lac,0,4500,5
+538,"Scarlett, Jordan",car, jac,0,4500,5
+539,"Henderson, Darrell",lar,sea,0,4500,5
+540,"Logan, T.J.",tam,nor,0,4500,5
+541,"Olawale, Jamize",dal, gnb,0,4500,5
+542,"Cannon, Trenton",nyj,phi,0,4600,5
+543,"Hill, Brian",atl,hou,0,4500,5
+544,"Clement, Corey",phi, nyj,-2,4500,5
+545,"Conner, James",pit,lac,27.4,6600,6
+546,"Chubb, Nick",cle, sea,26.4,7800,6
+547,"Freeman, Devonta",atl,ari,25.3,6600,6
+548,"Johnson, David",ari, atl,25.2,6900,6
+549,"Carson, Chris",sea,cle,23.9,7200,6
+550,"Elliott, Ezekiel",dal,nyj,23.7,8500,6
+551,"Williams, Jamaal",gnb, det,21.6,5400,6
+552,"McCaffrey, Christian",car,tam,19.7,9700,6
+553,"Hyde, Carlos",hou,kan,17.5,6000,6
+554,"Sanders, Miles",phi,min,16.7,5700,6
+555,"Fournette, Leonard",jac, nor,14.8,7300,6
+556,"Peterson, Adrian",was,mia,14.6,5300,6
+557,"Lindsay, Phillip",den, ten,14.5,6700,6
+558,"Ingram, Mark",bal, cin,14.4,7500,6
+559,"Edmonds, Chase",ari, atl,13.7,5200,6
+560,"Coleman, Tevin",sfo,lar,13.1,5000,6
+561,"Johnson, Kerryon",det,gnb,13.1,6900,6
+562,"Cook, Dalvin",min, phi,12.4,8200,6
+563,"Johnson, Duke",hou,kan,12.4,5300,6
+564,"Michel, Sony",nwe, nyg,12.3,6500,6
+565,"Bell, Le'Veon",nyj, dal,11.8,6800,6
+566,"Bolden, Brandon",nwe, nyg,11.5,5000,6
+567,"Kamara, Alvin",nor,jac,10.1,7900,6
+568,"Freeman, Royce",den, ten,10.1,5200,6
+569,"Walton, Mark",mia, was,10,4500,6
+570,"Drake, Kenyan",mia, was,10,5600,6
+571,"Ogunbowale, Dare",tam, car,10,4600,6
+572,"Murray, Latavius",nor,jac,9.4,5000,6
+573,"Snell, Benny",pit,lac,9.4,4500,6
+574,"White, James",nwe, nyg,9,6000,6
+575,"Williams, Damien",kan, hou,8.5,6600,6
+576,"Breida, Matt",sfo,lar,8.3,5900,6
+577,"Jones, Ronald",tam, car,7,5600,6
+578,"Ballage, Kalen",mia, was,6.7,5100,6
+579,"Gordon, Melvin",lac, pit,6.3,6600,6
+580,"Jones, Aaron",gnb, det,6,7200,6
+581,"Williams, Darrel",kan, hou,5.7,6100,6
+582,"McCoy, LeSean",kan, hou,5.4,6400,6
+583,"Henderson, Darrell",lar, sfo,5.3,4500,6
+584,"Howard, Jordan",phi,min,4.9,6200,6
+585,"Mixon, Joe",cin,bal,4.9,6400,6
+586,"Mattison, Alexander",min, phi,4.3,4900,6
+587,"Ekeler, Austin",lac, pit,4.3,6800,6
+588,"Brown, Malcolm",lar, sfo,4,4800,6
+589,"Henry, Derrick",ten,den,3.8,6700,6
+590,"Edwards, Gus",bal, cin,3.4,4800,6
+591,"Bernard, Giovani",cin,bal,3.4,5000,6
+592,"Lewis, Dion",ten,den,3.4,4900,6
+593,"Montgomery, Ty",nyj, dal,3.2,4600,6
+594,"Hill, Justice",bal, cin,3.1,4500,6
+595,"Thompson, Chris",was,mia,3,5400,6
+596,"Scott, Boston",phi,min,3,4500,6
+597,"Barber, Peyton",tam, car,2.8,5600,6
+598,"Hilliard, Dontrell",cle, sea,2.7,4800,6
+599,"Bellore, Nick",sea,cle,2.5,4500,6
+600,"Hilliman, Jon",nyg,nwe,2.5,5400,6
+601,"McKissic, J.D.",det,gnb,2.1,4600,6
+602,"Mostert, Raheem",sfo,lar,1.3,5700,6
+603,"Pollard, Tony",dal,nyj,1.3,5000,6
+604,"Janovich, Andy",den, ten,1.3,4500,6
+605,"Penny, Elijhaa",nyg,nwe,1.1,5200,6
+606,"Ricard, Patrick",bal, cin,1.1,0,6
+607,"Prosise, C.J.",sea,cle,0.8,4600,6
+608,"Smith, Ito",atl,ari,0.6,5000,6
+609,"Powell, Bilal",nyj, dal,0.5,4500,6
+610,"Smallwood, Wendell",was,mia,0.4,4500,6
+611,"Armah, Alex",car,tam,0.4,4500,6
+612,"Dawkins, Dalyn",ten,den,0.2,4500,6
+613,"Smith, Keith",atl,ari,0.2,0,6
+614,"Armstead, Ryquell",jac, nor,0.1,4500,6
+615,"Thompson, Darwin",kan, hou,0,4500,6
+616,"Boone, Mike",min, phi,0,4500,6
+617,"Wilson Jr., Jeff",sfo,lar,0,5500,6
+618,"Washington, Dwayne",nor,jac,0,4500,6
+619,"Bonnafon, Reggie",car,tam,0,4500,6
+620,"Johnson, Jakob",nwe, nyg,0,4500,6
+621,"Pope, Troymaine",lac, pit,0,5000,6
+622,"Ham, C.J.",min, phi,0,4500,6
+623,"Line, Zach",nor,jac,0,4500,6
+624,"Bawden, Nick",det,gnb,0,4500,6
+625,"Gillaspia, Cullen",hou,kan,0,4500,6
+626,"Foster, D.J.",ari, atl,0,4500,6
+627,"Abdullah, Ameer",min, phi,0,4500,6
+628,"Barner, Kenjon",atl,ari,0,4500,6
+629,"Edmunds, Trey",pit,lac,0,4500,6
+630,"Johnson, Ty",det,gnb,0,4500,6
+631,"Perkins, Paul",det,gnb,0,4500,6
+632,"Sherman, Anthony",kan, hou,0,4500,6
+633,"Johnson, D'Ernest",cle, sea,0,4700,6
+634,"Howell, Buddy",hou,kan,0,4500,6
+635,"Booker, Devontae",den, ten,0,4500,6
+636,"Homer, Travis",sea,cle,0,4500,6
+637,"Watt, Derek",lac, pit,0,4500,6
+638,"Carson, Tra",gnb, det,0,4500,6
+639,"Kelly, John",lar, sfo,0,4500,6
+640,"Perine, Samaje",cin,bal,0,4500,6
+641,"Scarlett, Jordan",car,tam,0,4500,6
+642,"Logan, T.J.",tam, car,0,4500,6
+643,"Olawale, Jamize",dal,nyj,0,4500,6
+644,"Vitale, Dan",gnb, det,0,4500,6
+645,"Edmonds, Chase",ari,nyg,34,5500,7
+646,"Murray, Latavius",nor,chi,29.5,5300,7
+647,"Cook, Dalvin",min,det,27.4,8300,7
+648,"Elliott, Ezekiel",dal, phi,23.7,8100,7
+649,"Ekeler, Austin",lac,ten,22,6900,7
+650,"Michel, Sony",nwe,nyj,21.9,6500,7
+651,"Henry, Derrick",ten, lac,17.3,6500,7
+652,"Jones, Aaron",gnb, oak,16.3,7600,7
+653,"Fournette, Leonard",jac,cin,15.5,7900,7
+654,"Barkley, Saquon",nyg, ari,15.5,8600,7
+655,"Jacobs, Josh",oak,gnb,14.9,6700,7
+656,"Freeman, Royce",den, kan,14.7,5400,7
+657,"Gurley, Todd",lar,atl,11.9,7100,7
+658,"Williams, Jamaal",gnb, oak,11.1,5400,7
+659,"White, James",nwe,nyj,9.4,6000,7
+660,"Carson, Chris",sea, bal,8.9,7600,7
+661,"McCoy, LeSean",kan,den,8.6,6200,7
+662,"Bell, Le'Veon",nyj, nwe,8.1,6800,7
+663,"Ham, C.J.",min,det,7.9,4500,7
+664,"Gordon, Melvin",lac,ten,7.9,6600,7
+665,"Johnson, Ty",det, min,7.7,4500,7
+666,"Cohen, Tarik",chi, nor,7.4,5500,7
+667,"Drake, Kenyan",mia,buf,7.3,5400,7
+668,"Coleman, Tevin",sfo,was,7.1,6200,7
+669,"Mack, Marlon",ind, hou,7.1,7100,7
+670,"Gore, Frank",buf, mia,7.1,6000,7
+671,"McKissic, J.D.",det, min,7,4600,7
+672,"Mixon, Joe",cin, jac,6.9,6100,7
+673,"Ballage, Kalen",mia,buf,6.7,4600,7
+674,"Howard, Jordan",phi,dal,6.6,6000,7
+675,"Johnson, Duke",hou,ind,6.6,5400,7
+676,"Walton, Mark",mia,buf,6.3,4900,7
+677,"Bolden, Brandon",nwe,nyj,6.1,5000,7
+678,"Peterson, Adrian",was, sfo,6.1,5700,7
+679,"Ingram, Mark",bal,sea,5.8,7500,7
+680,"Vitale, Dan",gnb, oak,5.3,4500,7
+681,"Sanders, Miles",phi,dal,4.7,5800,7
+682,"Smallwood, Wendell",was, sfo,4.6,4500,7
+683,"Washington, DeAndre",oak,gnb,4.6,4500,7
+684,"Henderson, Darrell",lar,atl,4.4,5200,7
+685,"Scott, Boston",phi,dal,4.2,4500,7
+686,"Breida, Matt",sfo,was,4.1,5600,7
+687,"Lindsay, Phillip",den, kan,3.7,6600,7
+688,"DiMarco, Patrick",buf, mia,3.6,0,7
+689,"Edwards, Gus",bal,sea,3.5,4800,7
+690,"Hyde, Carlos",hou,ind,3.5,6300,7
+691,"Freeman, Devonta",atl, lar,3.5,6400,7
+692,"Hill, Brian",atl, lar,3.5,4500,7
+693,"Pollard, Tony",dal, phi,2.8,5000,7
+694,"Janovich, Andy",den, kan,2.7,4500,7
+695,"Singletary, Devin",buf, mia,2.6,5800,7
+696,"Johnson, Kerryon",det, min,2.3,6800,7
+697,"Hines, Nyheim",ind, hou,2.1,4800,7
+698,"Wilson Jr., Jeff",sfo,was,2,4800,7
+699,"Line, Zach",nor,chi,2,4500,7
+700,"Wilkins, Jordan",ind, hou,2,4900,7
+701,"Mattison, Alexander",min,det,1.8,5200,7
+702,"Prosise, C.J.",sea, bal,1.7,4600,7
+703,"Williams, Damien",kan,den,1.6,6000,7
+704,"Williams, Darrel",kan,den,1.6,5600,7
+705,"Bernard, Giovani",cin, jac,1.4,4900,7
+706,"Harris, Damien",nwe,nyj,1.2,4500,7
+707,"Richard, Jalen",oak,gnb,1.2,5000,7
+708,"Zenner, Zach",nor,chi,1.2,0,7
+709,"Washington, Dwayne",nor,chi,1.1,4500,7
+710,"Montgomery, David",chi, nor,0.9,5900,7
+711,"Kelly, John",lar,atl,0.9,4500,7
+712,"Montgomery, Ty",nyj, nwe,0.9,4600,7
+713,"Smith, Ito",atl, lar,0.7,5000,7
+714,"Sherman, Anthony",kan,den,0.7,4500,7
+715,"Powell, Bilal",nyj, nwe,0.3,4500,7
+716,"Armstead, Ryquell",jac,cin,0.3,4500,7
+717,"Williams, Dexter",gnb, oak,0.2,4500,7
+718,"Lewis, Dion",ten, lac,0.2,4900,7
+719,"Johnson, David",ari,nyg,0.2,7400,7
+720,"Mostert, Raheem",sfo,was,0,5000,7
+721,"Boone, Mike",min,det,0,4500,7
+722,"Hill, Justice",bal,sea,0,4500,7
+723,"Pope, Troymaine",lac,ten,0,5000,7
+724,"Bellore, Nick",sea, bal,0,4500,7
+725,"Davis, Mike",chi, nor,0,4500,7
+726,"Bawden, Nick",det, min,0,4500,7
+727,"Gillaspia, Cullen",hou,ind,0,4500,7
+728,"Cox, Chandler",mia,buf,0,4500,7
+729,"Penny, Elijhaa",nyg, ari,0,5200,7
+730,"Abdullah, Ameer",min,det,0,4500,7
+731,"Barner, Kenjon",atl, lar,0,4500,7
+732,"Howell, Buddy",hou,ind,0,4500,7
+733,"Booker, Devontae",den, kan,0,4500,7
+734,"Homer, Travis",sea, bal,0,4500,7
+735,"Allen, Javorius",nyg, ari,0,5500,7
+736,"Watt, Derek",lac,ten,0,4500,7
+737,"Ervin, Tyler",jac,cin,0,4500,7
+738,"Jones, Taiwan",hou,ind,0,4500,7
+739,"Ingold, Alec",oak,gnb,0,4500,7
+740,"Penny, Rashaad",sea, bal,0,5400,7
+741,"Olawale, Jamize",dal, phi,0,4500,7
+742,"Gallman, Wayne",nyg, ari,0,5900,7
+743,"Jones, Aaron",gnb,kan,38.1,7600,8
+744,"Coleman, Tevin",sfo, car,36.8,6200,8
+745,"Murray, Latavius",nor, ari,32.2,6200,8
+746,"Cook, Dalvin",min, was,25.6,8900,8
+747,"McCaffrey, Christian",car,sfo,25.5,9600,8
+748,"Barkley, Saquon",nyg,det,24.3,8600,8
+749,"Montgomery, David",chi, lac,22.7,5700,8
+750,"Conner, James",pit, mia,22.5,7000,8
+751,"Sanders, Miles",phi,buf,21.3,5800,8
+752,"Howard, Jordan",phi,buf,17.6,6000,8
+753,"Fournette, Leonard",jac, nyj,17.1,7700,8
+754,"Williams, Jamaal",gnb,kan,17.1,5400,8
+755,"Mixon, Joe",cin,lar,15.7,6000,8
+756,"Mack, Marlon",ind, den,15.5,6800,8
+757,"Carson, Chris",sea,atl,15,8000,8
+758,"Singletary, Devin",buf, phi,12.9,5400,8
+759,"Freeman, Devonta",atl, sea,12.2,6200,8
+760,"Mostert, Raheem",sfo, car,12,5000,8
+761,"Johnson, Duke",hou, oak,11.4,5300,8
+762,"Peterson, Adrian",was,min,11.3,5700,8
+763,"Freeman, Royce",den,ind,11,5700,8
+764,"Gurley, Todd",lar, cin,10.4,7400,8
+765,"Gordon, Melvin",lac,chi,10.4,6400,8
+766,"Chubb, Nick",cle,nwe,10.3,7700,8
+767,"Lindsay, Phillip",den,ind,10.1,6300,8
+768,"White, James",nwe, cle,9.9,6000,8
+769,"Ekeler, Austin",lac,chi,9.2,6800,8
+770,"Jacobs, Josh",oak,hou,9.1,7200,8
+771,"Williams, Damien",kan, gnb,9,5400,8
+772,"Hill, Brian",atl, sea,8.9,4500,8
+773,"Hyde, Carlos",hou, oak,8.3,6100,8
+774,"Henderson, Darrell",lar, cin,7.9,5600,8
+775,"Mattison, Alexander",min, was,7.4,5200,8
+776,"Michel, Sony",nwe, cle,7.4,6500,8
+777,"Henry, Derrick",ten, tam,6.8,6900,8
+778,"McCoy, LeSean",kan, gnb,6.3,6000,8
+779,"Hines, Nyheim",ind, den,6.1,4600,8
+780,"Cohen, Tarik",chi, lac,6.1,5400,8
+781,"Jones, Ronald",tam,ten,5.7,5600,8
+782,"Bernard, Giovani",cin,lar,5.5,4700,8
+783,"Breida, Matt",sfo, car,5.5,5300,8
+784,"Penny, Rashaad",sea,atl,5.5,5400,8
+785,"Hilliard, Dontrell",cle,nwe,5.4,4800,8
+786,"Bell, Le'Veon",nyj,jac,5,7000,8
+787,"Walton, Mark",mia,pit,4.9,5300,8
+788,"Scott, Boston",phi,buf,4.6,4500,8
+789,"Johnson, Ty",det, nyg,4.3,5200,8
+790,"Washington, Dwayne",nor, ari,3.8,4500,8
+791,"Richard, Jalen",oak,hou,3.7,5000,8
+792,"Gore, Frank",buf, phi,3.4,5600,8
+793,"Carson, Tra",det, nyg,3.4,0,8
+794,"Barber, Peyton",tam,ten,3.3,5300,8
+795,"Washington, DeAndre",oak,hou,3.2,4500,8
+796,"Smallwood, Wendell",was,min,2.5,4500,8
+797,"Gallman, Wayne",nyg,det,2.5,5000,8
+798,"Line, Zach",nor, ari,2.4,4500,8
+799,"Ballage, Kalen",mia,pit,2.4,4600,8
+800,"Edmonds, Chase",ari,nor,2.3,6100,8
+801,"Janovich, Andy",den,ind,1.9,4500,8
+802,"Burkhead, Rex",nwe, cle,1.8,5300,8
+803,"Zenner, Zach",ari,nor,1.8,4500,8
+804,"McKissic, J.D.",det, nyg,1.6,5400,8
+805,"Nix, Roosevelt",pit, mia,1.4,4500,8
+806,"Davis, Mike",chi, lac,1.3,4500,8
+807,"Snell, Benny",pit, mia,1.3,4500,8
+808,"Bonnafon, Reggie",car,sfo,1.2,4500,8
+809,"Powell, Bilal",nyj,jac,1.1,4500,8
+810,"Williams, Darrel",kan, gnb,1,5000,8
+811,"Scarlett, Jordan",car,sfo,0.9,4500,8
+812,"Lewis, Dion",ten, tam,0.7,4900,8
+813,"Armstead, Ryquell",jac, nyj,0.7,4500,8
+814,"Wilson Jr., Jeff",sfo, car,0.6,4800,8
+815,"Ogunbowale, Dare",tam,ten,0.6,5000,8
+816,"Wilkins, Jordan",ind, den,0.5,4700,8
+817,"Thompson, Darwin",kan, gnb,0.4,4500,8
+818,"Perkins, Paul",det, nyg,0.4,4500,8
+819,"Penny, Elijhaa",nyg,det,0.3,4500,8
+820,"Watt, Derek",lac,chi,0.2,4500,8
+821,"Ingold, Alec",oak,hou,0.2,4500,8
+822,"Barner, Kenjon",atl, sea,0.1,4500,8
+823,"Boone, Mike",min, was,0,4500,8
+824,"Burton, Michael",was,min,0,4500,8
+825,"Pope, Troymaine",lac,chi,0,5000,8
+826,"Bellore, Nick",sea,atl,0,4500,8
+827,"Ham, C.J.",min, was,0,4500,8
+828,"Williams, Dexter",gnb,kan,0,4500,8
+829,"Bawden, Nick",det, nyg,0,4500,8
+830,"Gillaspia, Cullen",hou, oak,0,4500,8
+831,"Cox, Chandler",mia,pit,0,4500,8
+832,"Abdullah, Ameer",min, was,0,4500,8
+833,"Edmunds, Trey",pit, mia,0,4500,8
+834,"Perry, Senorise",buf, phi,0,4500,8
+835,"Sherman, Anthony",kan, gnb,0,4500,8
+836,"Bolden, Brandon",nwe, cle,0,5000,8
+837,"Johnson, D'Ernest",cle,nwe,0,4700,8
+838,"Howell, Buddy",hou, oak,0,4500,8
+839,"Homer, Travis",sea,atl,0,4500,8
+840,"Allen, Javorius",nyg,det,0,4700,8
+841,"Armah, Alex",car,sfo,0,4500,8
+842,"Ervin, Tyler",jac, nyj,0,4500,8
+843,"Jones, Taiwan",hou, oak,0,4500,8
+844,"Smith, Rod",ten, tam,0,4500,8
+845,"Kelly, John",lar, cin,0,4500,8
+846,"Montgomery, Ty",nyj,jac,0,4600,8
+847,"Logan, T.J.",tam,ten,0,4500,8
+848,"Vitale, Dan",gnb,kan,0,4500,8
