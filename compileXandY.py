@@ -23,7 +23,11 @@ def mergeXandY(filename):
 	if filename == 'TE.csv' or filename == "WR.csv":
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Wide_Receiver_and_Tight_End.csv')
 	if filename == 'DEF.csv':
-		Xstats = pd.read_csv("./NFL-Statistics-Scrape/Game_Logs_Defensive_Lineman.csv")
+		defStats = pd.read_csv(filename,index_col=0)
+		defStats= defStats.rename({'name':'Player Id'})
+		filename = 'finalized_' + filename
+		defStats.to_csv(filename)
+		return
 	#data cleaning of the Y sets. Helps with merge.
 	Ystats = pd.read_csv(filename)
 	Xstats = Xstats.rename({'Name':'name','Week':'week', 'Opponent':'opponent'},axis='columns')
