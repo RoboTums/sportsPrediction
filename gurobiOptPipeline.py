@@ -1,7 +1,7 @@
 import pandas as pd 
 import os
 #returns DF of prediction.
-#DF: pd dataframe, Position: Int. Windowsize: Int
+#DF: pd dataframe, Position: str. Windowsize: Int
 def predict(DF, position, windowsize=5):
 	portfolio = pd.DataFrame()
 	#expected value	
@@ -21,6 +21,12 @@ def predict(DF, position, windowsize=5):
 
 	return portfolio
 
+def strExcludeMedian(DF):
+	newDF = pd.DataFrame()
+	#print(DF['position'])
+
+	return newDF
+
 #List of Predictions: List[pd Dataframes]
 # outputs whole portfolio of players. 
 def generatePortfolioDataSet(listOfPredictions):
@@ -30,8 +36,19 @@ def generatePortfolioDataSet(listOfPredictions):
 	for dataset in listOfPredictions:
 		bigKahuna = pd.concat([bigKahuna, dataset])
 
+
+	joiner = pd.concat([bigKahuna['position'], bigKahuna['player']],axis=1)
+	#print('yike:',joiner.columns)
+
 	bigKahuna = bigKahuna.groupby('player')
-	return bigKahuna.median()
+	joiner = joiner.drop_duplicates(subset=['player'])
+	joiner = joiner.sort_values(by=['player'])
+	joiner.index = joiner['player']
+	yike = bigKahuna.median()
+	#print(bigKahuna['mean'].median())
+	bigKahuna = pd.concat([yike,joiner],axis=1)
+
+	return bigKahuna
 
 def main():
 
@@ -39,16 +56,19 @@ def main():
 
 	#sort predictions for sanity
 	predictionRaw.sort()
-
+	predictionClean = [ x[10:].strip('.csv') for x in predictionRaw]
 	portfolioData = []
 
 	for pos, data in enumerate(predictionRaw):
-		positionDataframe = pd.read_csv(data)
-		portfolioData.append(predict(positionDataframe,pos))
+		positionDataframe = pd.read_csv(data,index_col=0)
+		portfolioData.append(predict(positionDataframe,predictionClean[pos]))
 
 	optAlgInput = generatePortfolioDataSet(portfolioData)
-
+	
+	#optAlgInput = optAlgInput.drop(['player.1'],axis=1)
+	optAlgInput.to_csv('gurobiTime.csv')
 	#print(optAlgInput)
 	 
 
 main()
+

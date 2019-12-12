@@ -16,15 +16,20 @@ def mergeXandY(filename):
 	#nasty bunch of cases for this 
 	if filename == 'QB.csv':
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Quarterback.csv')
-	if filename == 'RB.csv':
+	elif filename == 'RB.csv':
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Runningback.csv')
-	if filename == 'TE.csv' or filename == "WR.csv":
+	elif filename == 'TE.csv' or filename == "WR.csv":
 		Xstats = pd.read_csv('./NFL-Statistics-Scrape/Game_Logs_Wide_Receiver_and_Tight_End.csv')
-	if filename == 'DEF.csv':
+	elif filename == 'DEF.csv':
 		defStats = pd.read_csv(filename,index_col=0)
-		defStats= defStats.rename({'name':'Player Id'})
+		defStats= defStats.rename({'name':'Player Id'}, axis='columns')
 		filename = 'finalized_' + filename
 		defStats.to_csv(filename)
+		print('\n created CSV for' ,filename)
+		print('\n found Nans:', findNans(defStats))
+		return
+	else:
+		print('file:' ,filename,'not found, moving on.')
 		return
 	#data cleaning of the Y sets. Helps with merge.
 	Ystats = pd.read_csv(filename)
