@@ -1,7 +1,9 @@
 
-''' Usage: python timeSeriesRegressor.py [file_path] [number_of_time_steps] [feature separated by underscores] [regressor_model]
+''' Usage: python timeSeriesRegressor.py [file_path] [feature separated by underscores] [regressor_model] [use_extra_features]
     
-    python timeSeriesRegressor.py data/finalized_data/finalized_QB.csv 5 Passer_Rating rfrg'''
+    python timeSeriesRegressor.py data/finalized_data/finalized_QB.csv Passer_Rating rfrg 0
+
+    @author: dafirebanks '''
 
 from scipy.stats import truncnorm
 from scipy.stats import gaussian_kde
@@ -96,7 +98,7 @@ class TimeSeriesRegressor(object):
 
         return new_df
     
-    def _train_preprocess(self, df, feature):
+    def _train_preprocess(self, df, feature, extra=False):
 
         # Work with deep copy of df
         df2 = df.copy()
@@ -111,11 +113,12 @@ class TimeSeriesRegressor(object):
         # Then add extra features from the previous week (t-1)
         df2[f'Last_Week_{feature}'] = df2.groupby(['Player Id'])[feature].shift()
         
-        # This would not be useful for a new instance, but maybe we can try for two weeks back?
-        #df2['Last_Week_Diff'] = df2.groupby(['Player Id'])[f'Last_Week_{feature}'].diff()
-        
-        # Extra feature from second to last week
-#         df2[f'Last-1_Week_{feature}'] = df2.groupby(['Player Id'])[feature].shift(2)
+        if extra:
+            # This would not be useful for a new instance, but maybe we can try for two weeks back?
+            df2['Last_Week_Diff'] = df2.groupby(['Player Id'])[f'Last_Week_{feature}'].diff()
+            
+            # Extra feature from second to last week
+            df2[f'Last-1_Week_{feature}'] = df2.groupby(['Player Id'])[feature].shift(2)
 
         # TODO Should we drop na or replace with 0s? 
         df2 = df2.dropna()
@@ -147,10 +150,10 @@ class TimeSeriesRegressor(object):
         return df2
         
 
-    def train(self, df, feature, max_range):
+    def train(self, df, feature, max_range, extra=False):
         """ Performs a time series regression in df[feature], produces num_tsteps predictions for the future """
         
-        df2 = self._train_preprocess(df, feature)
+        df2 = self._train_preprocess(df, feature, extra)
 
         # Instantiate the models
         self.rfrg = RandomForestRegressor(n_estimators=1000, n_jobs=-1, random_state=69420)
@@ -258,6 +261,7 @@ def main():
     file_name = sys.argv[1]
     feature = " ".join(sys.argv[2].split("_"))
     model = sys.argv[3]
+    extra = int(sys.argv[4]) # 0 if we don't want to use extra features, 1 otherwise
 
     df = pd.read_csv(file_name, index_col=0)
     df = shitty_preprocessing(df)
@@ -269,11 +273,13 @@ def main():
 
     print("--------------------------------------------------------")
     print("Training Regressor...")
+
     ts_reg.train(new_df, feature, latest_week)
 
     print("--------------------------------------------------------")
     print("Predicting...")
-    # Predict two more time steps
+
+    # Predict the next time step
     preds, new_df = ts_reg.predict(new_df, feature)
     latest_week = int(new_df['week'].max()) + 1
     
