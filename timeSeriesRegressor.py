@@ -1,7 +1,7 @@
 
-''' Usage: python timeSeriesRegressor.py [file_path] [number_of_time_steps] [feature separated by underscores]
+''' Usage: python timeSeriesRegressor.py [file_path] [number_of_time_steps] [feature separated by underscores] [regressor_model]
     
-    python timeSeriesRegressor.py data/finalized_data/finalized_QB.csv 5 Passer_Rating'''
+    python timeSeriesRegressor.py data/finalized_data/finalized_QB.csv 5 Passer_Rating rfrg'''
 
 from scipy.stats import truncnorm
 from scipy.stats import gaussian_kde
@@ -160,12 +160,10 @@ class TimeSeriesRegressor(object):
         mean_error1 = []
         mean_error2 = []
 
-        print("Training until", max_range-5, max_range)
-
         for week in range(max_range-5, max_range):
             train = df2[df2['week'] < week]
             val = df2[df2['week'] == week]
-            
+
             x_train, x_test = train.drop([feature], axis=1), val.drop([feature], axis=1)
             y_train, y_test = train[feature].values, val[feature].values
             
@@ -258,33 +256,31 @@ def main():
     """ Test the TimeSeriesRegressor """
 
     file_name = sys.argv[1]
-    new_times = int(sys.argv[2])
-    feature = " ".join(sys.argv[3].split("_"))
+    feature = " ".join(sys.argv[2].split("_"))
+    model = sys.argv[3]
 
     df = pd.read_csv(file_name, index_col=0)
     df = shitty_preprocessing(df)
 
     latest_week = int(df['week'].max()) + 1
+    df_train = df[['Player Id', 'week', feature]]
+    ts_reg = TimeSeriesRegressor(df_train)
+    new_df = ts_reg.complete_data(df_train)
 
-    for i in range(0, new_times):
-        print("--------------------------------------------------------")
-        print("Training Regressor...")
+    print("--------------------------------------------------------")
+    print("Training Regressor...")
+    ts_reg.train(new_df, feature, latest_week)
 
-
-        df_train = df[['Player Id', 'week', feature]]
-        ts_reg = TimeSeriesRegressor(df_train)
-        new_df = ts_reg.complete_data(df_train)
-        ts_reg.train(new_df, feature, latest_week)
-        print("--------------------------------------------------------")
-        print(f"Predicting {i}th time step...")
-        
-        # Predict two more time steps
-        preds, new_df = ts_reg.predict(new_df, feature)
-        latest_week = int(new_df['week'].max()) + 1
-        print("LATEST WEEK IS", latest_week)
-        print("--------------------------------------------------------")
-
+    print("--------------------------------------------------------")
+    print("Predicting...")
+    # Predict two more time steps
+    preds, new_df = ts_reg.predict(new_df, feature)
+    latest_week = int(new_df['week'].max()) + 1
+    
+    # Store new dataframe
     print(new_df)
+    fout = file_name.split("/")[2]
+    new_df.to_csv(f"new_{fout}")
 
 if __name__ == "__main__":
     main()
