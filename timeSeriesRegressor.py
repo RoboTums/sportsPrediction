@@ -266,7 +266,7 @@ def main():
 
     latest_week = int(df['week'].max()) + 1
 
-    for i in range(1, new_times):
+    for i in range(0, new_times):
         print("--------------------------------------------------------")
         print("Training Regressor...")
 
@@ -277,6 +277,7 @@ def main():
         ts_reg.train(new_df, feature, latest_week)
         print("--------------------------------------------------------")
         print(f"Predicting {i}th time step...")
+        
         # Predict two more time steps
         preds, new_df = ts_reg.predict(new_df, feature)
         latest_week = int(new_df['week'].max()) + 1
