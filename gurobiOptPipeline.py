@@ -7,6 +7,8 @@ import sys
 def predict(position, model="rfrg"):
     """ Takes in a finalized scrapped dataframe and produces the prediction for next week """
 
+    pOne = 1/3
+    pTwo = 2/3
     # Check that it must be a valid name
     if position not in ["DEF", "QB", "TE", "WR", "RB"]:
         print("Position must be DEF, QB, TE, WR or RB")
@@ -17,7 +19,7 @@ def predict(position, model="rfrg"):
         print("===================================================================")
         print("Processing file...")
         print("===================================================================")
-        df, key_features = process_data(position)
+        df, key_features = process_data(position, pOne,pTwo)
 
         # 2. Get future values for each key feature using the TS Regressor
         print("===================================================================")

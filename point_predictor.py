@@ -48,7 +48,7 @@ def process_data(pos):
     return pos_features, features
 
 
-def predictor(df):
+def predictor(df,pOne,pTwo):
 
     # Always work on a copy
     final_df = df.copy()
