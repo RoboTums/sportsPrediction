@@ -11,4 +11,4 @@ This repo includes:
 We got an A+ on this project, plus we won enough money in draftkings to buy some burritos.
 
 ## Infrastructure:
-![](images/infra.png)
+![](infra.png)
