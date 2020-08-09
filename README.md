@@ -2,6 +2,7 @@
 ## Authors: Tumas Rackaitis, Wes Patterson, Khang Nyugen, and Daniel Firebanks.
 ## Description: 
 This repo includes:
+
 -- An ETL pipeline to get data on every football player since 1970.
 
 -- 3 Time Series models (LSTM-RNN, Time Series AutoRegressor, and Fourier Transform) to predict fantasy scores.
