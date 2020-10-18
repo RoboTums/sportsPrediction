@@ -1,0 +1,289 @@
+,Player Id,points,week,Last_Week_points
+14,Arizona,7.0,1,0.0
+26,Atlanta,0.0,1,0.0
+5,Baltimore,13.0,1,0.0
+8,Buffalo,10.0,1,0.0
+20,Carolina,4.0,1,0.0
+10,Chicago,9.0,1,0.0
+16,Cincinnati,6.0,1,0.0
+25,Cleveland,0.0,1,0.0
+17,Dallas,6.0,1,0.0
+24,Denver,0.0,1,0.0
+13,Detroit,7.0,1,0.0
+4,Green Bay,14.0,1,0.0
+21,Houston,2.0,1,0.0
+15,Indianapolis,7.0,1,0.0
+30,Jacksonville,-4.0,1,0.0
+18,Kansas City,5.0,1,0.0
+22,LA Chargers,2.0,1,0.0
+11,LA Rams,9.0,1,0.0
+29,Miami,-3.0,1,0.0
+3,Minnesota,16.0,1,0.0
+9,New England,10.0,1,0.0
+12,New Orleans,7.0,1,0.0
+31,New York G,-4.0,1,0.0
+2,New York J,18.0,1,0.0
+19,Oakland,4.0,1,0.0
+23,Philadelphia,1.0,1,0.0
+28,Pittsburgh,0.0,1,0.0
+0,San Francisco,27.0,1,0.0
+7,Seattle,12.0,1,0.0
+6,Tampa Bay,12.0,1,0.0
+1,Tennessee,23.0,1,0.0
+27,Washington,0.0,1,0.0
+58,Arizona,2.0,2,7.0
+37,Atlanta,10.0,2,0.0
+54,Baltimore,4.0,2,13.0
+47,Buffalo,6.0,2,10.0
+48,Carolina,6.0,2,4.0
+52,Chicago,5.0,2,9.0
+63,Cincinnati,-2.0,2,6.0
+33,Cleveland,13.0,2,0.0
+62,Dallas,1.0,2,6.0
+61,Denver,1.0,2,0.0
+39,Detroit,9.0,2,7.0
+34,Green Bay,12.0,2,14.0
+36,Houston,10.0,2,2.0
+53,Indianapolis,5.0,2,7.0
+40,Jacksonville,8.0,2,-4.0
+35,Kansas City,11.0,2,5.0
+43,LA Chargers,8.0,2,2.0
+41,LA Rams,8.0,2,9.0
+57,Miami,3.0,2,-3.0
+49,Minnesota,6.0,2,16.0
+32,New England,37.0,2,10.0
+50,New Orleans,5.0,2,7.0
+60,New York G,2.0,2,-4.0
+51,New York J,5.0,2,18.0
+55,Oakland,3.0,2,4.0
+44,Philadelphia,7.0,2,1.0
+46,Pittsburgh,7.0,2,0.0
+45,San Francisco,7.0,2,27.0
+56,Seattle,3.0,2,12.0
+38,Tampa Bay,9.0,2,12.0
+42,Tennessee,8.0,2,23.0
+59,Washington,2.0,2,0.0
+93,Arizona,0.0,3,2.0
+90,Atlanta,1.0,3,10.0
+94,Baltimore,0.0,3,4.0
+73,Buffalo,11.0,3,6.0
+70,Carolina,13.0,3,6.0
+64,Chicago,21.0,3,5.0
+82,Cincinnati,5.0,3,-2.0
+75,Cleveland,9.0,3,13.0
+72,Dallas,12.0,3,1.0
+92,Denver,0.0,3,1.0
+69,Detroit,13.0,3,9.0
+71,Green Bay,13.0,3,12.0
+78,Houston,8.0,3,10.0
+89,Indianapolis,2.0,3,5.0
+66,Jacksonville,15.0,3,8.0
+86,Kansas City,2.0,3,11.0
+84,LA Chargers,4.0,3,8.0
+76,LA Rams,9.0,3,8.0
+88,Miami,2.0,3,3.0
+80,Minnesota,7.0,3,6.0
+68,New England,14.0,3,37.0
+67,New Orleans,14.0,3,5.0
+81,New York G,7.0,3,2.0
+65,New York J,16.0,3,5.0
+95,Oakland,-1.0,3,3.0
+85,Philadelphia,2.0,3,7.0
+74,Pittsburgh,11.0,3,7.0
+79,San Francisco,7.0,3,7.0
+87,Seattle,2.0,3,3.0
+77,Tampa Bay,8.0,3,9.0
+91,Tennessee,1.0,3,8.0
+83,Washington,5.0,3,2.0
+117,Arizona,4.0,4,0.0
+122,Atlanta,0.0,4,1.0
+125,Baltimore,-1.0,4,0.0
+112,Buffalo,6.0,4,11.0
+102,Carolina,14.0,4,13.0
+99,Chicago,17.0,4,21.0
+119,Cincinnati,2.0,4,5.0
+110,Cleveland,10.0,4,9.0
+105,Dallas,11.0,4,12.0
+114,Denver,5.0,4,0.0
+116,Detroit,5.0,4,13.0
+124,Green Bay,-1.0,4,13.0
+109,Houston,10.0,4,8.0
+118,Indianapolis,3.0,4,2.0
+120,Jacksonville,2.0,4,15.0
+103,Kansas City,13.0,4,2.0
+107,LA Chargers,11.0,4,4.0
+113,LA Rams,6.0,4,9.0
+123,Miami,0.0,4,2.0
+121,Minnesota,2.0,4,7.0
+96,New England,25.0,4,14.0
+104,New Orleans,11.0,4,14.0
+97,New York G,24.0,4,7.0
+243,New York J,12.566910341687533,4,16.0
+108,Oakland,10.0,4,-1.0
+115,Philadelphia,5.0,4,2.0
+98,Pittsburgh,19.0,4,11.0
+242,San Francisco,3.4283054558624544,4,7.0
+100,Seattle,16.0,4,2.0
+101,Tampa Bay,15.0,4,8.0
+106,Tennessee,11.0,4,1.0
+111,Washington,9.0,4,5.0
+154,Arizona,1.0,5,4.0
+155,Atlanta,-2.0,5,0.0
+143,Baltimore,5.0,5,-1.0
+133,Buffalo,11.0,5,6.0
+128,Carolina,14.0,5,14.0
+146,Chicago,4.0,5,17.0
+152,Cincinnati,1.0,5,2.0
+147,Cleveland,3.0,5,10.0
+153,Dallas,1.0,5,11.0
+131,Denver,12.0,5,5.0
+244,Detroit,8.630851251829744,5,5.0
+137,Green Bay,9.0,5,-1.0
+136,Houston,9.0,5,10.0
+135,Indianapolis,10.0,5,3.0
+144,Jacksonville,4.0,5,2.0
+148,Kansas City,3.0,5,13.0
+130,LA Chargers,14.0,5,11.0
+150,LA Rams,2.0,5,6.0
+245,Miami,12.06766933108215,5,0.0
+132,Minnesota,12.0,5,2.0
+129,New England,14.0,5,25.0
+140,New Orleans,6.0,5,11.0
+142,New York G,5.0,5,24.0
+145,New York J,4.0,5,12.566910341687533
+138,Oakland,8.0,5,10.0
+126,Philadelphia,35.0,5,5.0
+134,Pittsburgh,11.0,5,19.0
+127,San Francisco,19.0,5,3.4283054558624544
+149,Seattle,3.0,5,16.0
+151,Tampa Bay,1.0,5,15.0
+139,Tennessee,7.0,5,11.0
+141,Washington,5.0,5,9.0
+181,Arizona,1.0,6,1.0
+183,Atlanta,-1.0,6,-2.0
+167,Baltimore,8.0,6,5.0
+246,Buffalo,4.175408097590925,6,11.0
+158,Carolina,21.0,6,14.0
+247,Chicago,19.904245744232416,6,4.0
+164,Cincinnati,9.0,6,1.0
+174,Cleveland,4.0,6,3.0
+173,Dallas,4.0,6,1.0
+157,Denver,23.0,6,12.0
+169,Detroit,7.0,6,8.630851251829744
+176,Green Bay,3.0,6,9.0
+171,Houston,5.0,6,9.0
+248,Indianapolis,9.78490429574193,6,10.0
+168,Jacksonville,7.0,6,4.0
+172,Kansas City,5.0,6,3.0
+177,LA Chargers,3.0,6,14.0
+170,LA Rams,7.0,6,2.0
+180,Miami,1.0,6,12.06766933108215
+166,Minnesota,9.0,6,12.0
+156,New England,27.0,6,14.0
+161,New Orleans,11.0,6,6.0
+160,New York G,13.0,6,5.0
+179,New York J,1.0,6,4.0
+249,Oakland,4.574580305858239,6,8.0
+178,Philadelphia,1.0,6,35.0
+159,Pittsburgh,14.0,6,11.0
+162,San Francisco,10.0,6,19.0
+165,Seattle,9.0,6,3.0
+182,Tampa Bay,0.0,6,1.0
+175,Tennessee,4.0,6,7.0
+163,Washington,10.0,6,5.0
+191,Arizona,15.0,7,1.0
+209,Atlanta,-1.0,7,-1.0
+187,Baltimore,18.0,7,8.0
+192,Buffalo,11.0,7,4.175408097590925
+251,Carolina,3.079560272161511,7,21.0
+197,Chicago,6.0,7,19.904245744232416
+202,Cincinnati,2.0,7,9.0
+252,Cleveland,17.248207835090994,7,4.0
+189,Dallas,15.0,7,4.0
+206,Denver,1.0,7,23.0
+211,Detroit,-4.0,7,7.0
+198,Green Bay,4.0,7,3.0
+203,Houston,2.0,7,5.0
+195,Indianapolis,9.0,7,9.78490429574193
+188,Jacksonville,17.0,7,7.0
+185,Kansas City,24.0,7,5.0
+200,LA Chargers,4.0,7,3.0
+186,LA Rams,21.0,7,7.0
+205,Miami,2.0,7,1.0
+201,Minnesota,3.0,7,9.0
+184,New England,25.0,7,27.0
+193,New Orleans,11.0,7,11.0
+194,New York G,10.0,7,13.0
+208,New York J,1.0,7,1.0
+210,Oakland,-3.0,7,4.574580305858239
+207,Philadelphia,1.0,7,1.0
+253,Pittsburgh,2.203075136976426,7,14.0
+190,San Francisco,15.0,7,10.0
+204,Seattle,2.0,7,9.0
+250,Tampa Bay,6.5483308568244905,7,0.0
+199,Tennessee,4.0,7,4.0
+196,Washington,8.0,7,10.0
+239,Arizona,1.0,8,15.0
+238,Atlanta,2.0,8,-1.0
+254,Baltimore,6.520876581116975,8,18.0
+230,Buffalo,4.0,8,11.0
+237,Carolina,3.0,8,3.079560272161511
+232,Chicago,4.0,8,6.0
+240,Cincinnati,0.0,8,2.0
+229,Cleveland,5.0,8,17.248207835090994
+255,Dallas,0.3071864562911335,8,15.0
+225,Denver,7.0,8,1.0
+218,Detroit,11.0,8,-4.0
+233,Green Bay,4.0,8,4.0
+241,Houston,0.0,8,2.0
+226,Indianapolis,7.0,8,9.0
+214,Jacksonville,15.0,8,17.0
+231,Kansas City,4.0,8,24.0
+222,LA Chargers,9.0,8,4.0
+221,LA Rams,9.0,8,21.0
+234,Miami,4.0,8,2.0
+217,Minnesota,12.0,8,3.0
+212,New England,21.0,8,25.0
+223,New Orleans,8.0,8,11.0
+224,New York G,8.0,8,10.0
+236,New York J,3.0,8,1.0
+235,Oakland,3.0,8,-3.0
+216,Philadelphia,12.0,8,1.0
+215,Pittsburgh,13.0,8,2.203075136976426
+213,San Francisco,17.0,8,15.0
+220,Seattle,9.0,8,2.0
+228,Tampa Bay,5.0,8,6.5483308568244905
+219,Tennessee,11.0,8,4.0
+227,Washington,6.0,8,8.0
+270,Arizona,7.225333333333322,9,1.0
+282,Atlanta,3.5037547619047626,9,2.0
+261,Baltimore,5.65019726441734,9,6.520876581116975
+264,Buffalo,8.159633920036725,9,4.0
+276,Carolina,9.353694047619047,9,3.0
+266,Chicago,8.159633920036725,9,4.0
+272,Cincinnati,5.101574285365259,9,0.0
+281,Cleveland,10.588164978235966,9,5.0
+273,Dallas,6.52918579330176,9,0.3071864562911335
+280,Denver,6.537688753768868,9,7.0
+269,Detroit,6.452048507767243,9,11.0
+260,Green Bay,8.159633920036725,9,4.0
+277,Houston,5.101574285365259,9,0.0
+271,Indianapolis,6.537688753768868,9,7.0
+286,Jacksonville,6.110743971292656,9,15.0
+274,Kansas City,8.159633920036725,9,4.0
+278,LA Chargers,5.875076190476191,9,9.0
+267,LA Rams,5.875076190476191,9,9.0
+285,Miami,8.159633920036725,9,4.0
+259,Minnesota,10.32391010937358,9,12.0
+265,New England,7.7364487892566896,9,21.0
+268,New Orleans,7.643097062141006,9,8.0
+287,New York G,7.643097062141006,9,8.0
+258,New York J,9.353694047619047,9,3.0
+275,Oakland,9.353694047619047,9,3.0
+279,Philadelphia,10.32391010937358,9,12.0
+284,Pittsburgh,6.825608999856619,9,13.0
+256,San Francisco,11.670753753774157,9,17.0
+263,Seattle,5.875076190476191,9,9.0
+262,Tampa Bay,10.588164978235966,9,5.0
+257,Tennessee,6.452048507767243,9,11.0
+283,Washington,5.135200000000001,9,6.0

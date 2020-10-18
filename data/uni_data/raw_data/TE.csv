@@ -1,0 +1,660 @@
+,name,team,opponent,points,salary,week
+0,"Engram, Evan",nyg,dal,23.1,6400,1
+1,"Hockenson, T.J.",det,ari,22.1,4900,1
+2,"Andrews, Mark",bal,mia,20.8,5400,1
+3,"Walker, Delanie",ten,cle,20,5400,1
+4,"Davis, Vernon",was,phi,13.9,4000,1
+5,"Hooper, Austin",atl,min,12.2,5500,1
+6,"Njoku, David",cle, ten,11.7,5800,1
+7,"Jarwin, Blake",dal, nyg,11.4,4000,1
+8,"Graham, Jimmy",gnb,chi,10.5,5100,1
+9,"Waller, Darren",oak, den,10.5,4800,1
+10,"Kelce, Travis",kan,jac,10.3,7800,1
+11,"Higbee, Tyler",lar,car,10,4000,1
+12,"Kittle, George",sfo,tam,9.4,7300,1
+13,"Witten, Jason",dal, nyg,9,4700,1
+14,"Uzomah, C.J.",cin,sea,8.6,4300,1
+15,"Henry, Hunter",lac, ind,8,6100,1
+16,"Ertz, Zach",phi, was,7.9,7100,1
+17,"Olsen, Greg",car, lar,5.6,5200,1
+18,"Hurst, Hayden",bal,mia,5.6,4400,1
+19,"Eifert, Tyler",cin,sea,5.2,5200,1
+20,"O'Shaughnessy, James",jac, kan,5.2,4000,1
+21,"McDonald, Vance",pit,nwe,5,5600,1
+22,"Cook, Jared",nor, hou,4.7,6000,1
+23,"Sweeney, Tommy",buf,nyj,4.5,4000,1
+24,"Gesicki, Mike",mia, bal,4.1,4900,1
+25,"Boyle, Nick",bal,mia,4.1,4000,1
+26,"Swaim, Geoff",jac, kan,3.7,4500,1
+27,"Fant, Noah",den,oak,3.4,4900,1
+28,"Tonyan, Robert",gnb,chi,3.3,4000,1
+29,"Howard, O.J.",tam, sfo,3.2,6500,1
+30,"Moreau, Foster",oak, den,3,4000,1
+31,"Goedert, Dallas",phi, was,2.6,5000,1
+32,"Vannett, Nick",sea, cin,2.6,4800,1
+33,"Doyle, Jack",ind,lac,2.5,5400,1
+34,"Griffin, Ryan",nyj, buf,2.5,4000,1
+35,"Lewis, Marcedes",gnb,chi,2.4,4000,1
+36,"Akins, Jordan",hou,nor,2.2,4100,1
+37,"Smith, Jonnu",ten,cle,2.2,4000,1
+38,"James, Jesse",det,ari,2,4000,1
+39,"Williams, Maxx",ari, det,2,4100,1
+40,"Brate, Cameron",tam, sfo,1.8,4800,1
+41,"Dissly, Will",sea, cin,1.7,4000,1
+42,"Sprinkle, Jeremy",was,phi,1.3,4000,1
+43,"Ellison, Rhett",nyg,dal,1.3,4000,1
+44,"Ebron, Eric",ind,lac,1.3,5900,1
+45,"Everett, Gerald",lar,car,1.2,4900,1
+46,"Bell, Blake",kan,jac,1.2,4000,1
+47,"Shaheen, Adam",chi, gnb,1.1,4000,1
+48,"Clay, Charles",ari, det,1,4200,1
+49,"Green, Virgil",lac, ind,0.9,4000,1
+50,"Izzo, Ryan",nwe, pit,0.8,4000,1
+51,"Alie-Cox, Mo",ind,lac,0.8,4000,1
+52,"Knox, Dawson",buf,nyj,0.6,4600,1
+53,"Hill, Josh",nor, hou,0.3,4000,1
+54,"Firkser, Anthony",ten,cle,0,4000,1
+55,"Rudolph, Kyle",min, atl,0,5100,1
+56,"Manhertz, Chris",car, lar,0,4000,1
+57,"Fells, Darren",hou,nor,0,4000,1
+58,"Beck, Andrew",den,oak,0,4000,1
+59,"Thomas, Logan",det,ari,0,4000,1
+60,"Auclair, Antony",tam, sfo,0,4000,1
+61,"Winchester, James",kan,jac,0,4000,1
+62,"Carter, Cethan",cin,sea,0,4000,1
+63,"Schultz, Dalton",dal, nyg,0,4000,1
+64,"Brown, Pharaoh",cle, ten,0,4000,1
+65,"Thomas, Ian",car, lar,0,4600,1
+66,"O'Leary, Nick",mia, bal,0,4000,1
+67,"Tomlinson, Eric",nyg,dal,0,4000,1
+68,"Carrier, Derek",oak, den,0,4000,1
+69,"Harris, Demetrius",cle, ten,0,4000,1
+70,"Sample, Drew",cin,sea,0,4000,1
+71,"Grimble, Xavier",pit,nwe,0,4000,1
+72,"Heuerman, Jeff",den,oak,0,4200,1
+73,"Adams, Jerell",hou,nor,0,4000,1
+74,"Smith, Lee",buf,nyj,0,4000,1
+75,"Smith Jr., Irv",min, atl,0,4000,1
+76,"DeValve, Seth",jac, kan,0,4000,1
+77,"Pruitt, MyCole",ten,cle,0,4000,1
+78,"Dillon, Brandon",min, atl,0,4000,1
+79,"Culkin, Sean",lac, ind,0,4000,1
+80,"Toilolo, Levine",sfo,tam,0,4000,1
+81,"Stocker, Luke",atl,min,0,4000,1
+82,"Fumagalli, Troy",den,oak,0,4000,1
+83,"Brown, Daniel",nyj, buf,0,4500,1
+84,"Braunecker, Ben",chi, gnb,0,4000,1
+85,"Smythe, Durham",mia, bal,0,4000,1
+86,"Wesco, Trevon",nyj, buf,0,4500,1
+87,"Dwelley, Ross",sfo,tam,0,4000,1
+88,"Andrews, Mark",bal, ari,21.2,6100,2
+89,"Kelce, Travis",kan,oak,20.2,8000,2
+90,"Dissly, Will",sea,pit,19.5,4500,2
+91,"McDonald, Vance",pit, sea,19.3,5600,2
+92,"Olsen, Greg",car, tam,14,5400,2
+93,"Ertz, Zach",phi,atl,13.2,6900,2
+94,"Witten, Jason",dal,was,10.5,4700,2
+95,"Ebron, Eric",ind,ten,10,5700,2
+96,"Waller, Darren",oak, kan,9.3,5400,2
+97,"Eifert, Tyler",cin, sfo,8.4,4900,2
+98,"Engram, Evan",nyg, buf,7.8,6400,2
+99,"Kittle, George",sfo,cin,6.9,7100,2
+100,"Hurst, Hayden",bal, ari,6.6,4800,2
+101,"Walker, Delanie",ten, ind,5.9,5900,2
+102,"Hooper, Austin",atl, phi,5.4,5800,2
+103,"Fant, Noah",den, chi,5.3,5200,2
+104,"O'Shaughnessy, James",jac,hou,4.8,4500,2
+105,"Carrier, Derek",oak, kan,4.8,4000,2
+106,"Davis, Vernon",was, dal,4.4,5100,2
+107,"LaCosse, Matt",nwe,mia,4.3,4500,2
+108,"Heuerman, Jeff",den, chi,4.1,4200,2
+109,"Shaheen, Adam",chi,den,3.9,4000,2
+110,"Everett, Gerald",lar, nor,3.6,4700,2
+111,"Akins, Jordan",hou, jac,3.5,4100,2
+112,"Sample, Drew",cin, sfo,3.5,4000,2
+113,"Cook, Jared",nor,lar,3.5,6000,2
+114,"Braunecker, Ben",chi,den,3.4,4000,2
+115,"James, Jesse",det, lac,3.3,4000,2
+116,"Higbee, Tyler",lar, nor,3.1,4500,2
+117,"Doyle, Jack",ind,ten,3.1,5400,2
+118,"Swaim, Geoff",jac,hou,2.9,4500,2
+119,"Smythe, Durham",mia, nwe,2.9,4000,2
+120,"Jarwin, Blake",dal,was,2.7,4500,2
+121,"Williams, Maxx",ari,bal,2.6,4100,2
+122,"Rudolph, Kyle",min,gnb,2.4,4900,2
+123,"Knox, Dawson",buf,nyg,2.3,4600,2
+124,"Brate, Cameron",tam,car,2,4800,2
+125,"Boyle, Nick",bal, ari,1.9,4000,2
+126,"Vannett, Nick",sea,pit,1.8,4800,2
+127,"Sprinkle, Jeremy",was, dal,1.6,4000,2
+128,"Gesicki, Mike",mia, nwe,1.6,4800,2
+129,"Burton, Trey",chi,den,1.5,5400,2
+130,"Fells, Darren",hou, jac,1.4,4000,2
+131,"Green, Virgil",lac,det,1.4,4000,2
+132,"Ellison, Rhett",nyg, buf,1.3,4000,2
+133,"Smith, Lee",buf,nyg,1.3,4000,2
+134,"Thomas, Logan",det, lac,1.2,4000,2
+135,"Hockenson, T.J.",det, lac,1.2,6000,2
+136,"Fumagalli, Troy",den, chi,1.2,4000,2
+137,"Clay, Charles",ari,bal,1.1,4200,2
+138,"O'Leary, Nick",mia, nwe,1.1,4000,2
+139,"Harris, Demetrius",cle,nyj,0.9,4000,2
+140,"Stocker, Luke",atl, phi,0.9,4000,2
+141,"Smith Jr., Irv",min,gnb,0.4,4000,2
+142,"Seals-Jones, Ricky",cle,nyj,0,4700,2
+143,"Firkser, Anthony",ten, ind,0,4000,2
+144,"Graham, Jimmy",gnb, min,0,5400,2
+145,"Manhertz, Chris",car, tam,0,4000,2
+146,"Izzo, Ryan",nwe,mia,0,4500,2
+147,"Beck, Andrew",den, chi,0,4000,2
+148,"Tonyan, Robert",gnb, min,0,4000,2
+149,"Auclair, Antony",tam,car,0,4000,2
+150,"Lewis, Marcedes",gnb, min,0,4000,2
+151,"Sweeney, Tommy",buf,nyg,0,4000,2
+152,"Carter, Cethan",cin, sfo,0,4000,2
+153,"Smith, Jonnu",ten, ind,0,4000,2
+154,"Schultz, Dalton",dal,was,0,4000,2
+155,"Brown, Pharaoh",cle,nyj,0,4000,2
+156,"Thomas, Ian",car, tam,0,4600,2
+157,"Tomlinson, Eric",nyg, buf,0,4000,2
+158,"Uzomah, C.J.",cin, sfo,0,4800,2
+159,"Grimble, Xavier",pit, sea,0,4000,2
+160,"Moreau, Foster",oak, kan,0,4000,2
+161,"Howard, O.J.",tam,car,0,6500,2
+162,"DeValve, Seth",jac,hou,0,4000,2
+163,"Griffin, Ryan",nyj, cle,0,4000,2
+164,"Alie-Cox, Mo",ind,ten,0,4000,2
+165,"Pruitt, MyCole",ten, ind,0,4000,2
+166,"Njoku, David",cle,nyj,0,5800,2
+167,"Bell, Blake",kan,oak,0,4000,2
+168,"Culkin, Sean",lac,det,0,4000,2
+169,"Toilolo, Levine",sfo,cin,0,4000,2
+170,"Hill, Josh",nor,lar,0,4000,2
+171,"Brown, Daniel",nyj, cle,0,4500,2
+172,"Conklin, Tyler",min,gnb,0,4000,2
+173,"Wesco, Trevon",nyj, cle,0,4500,2
+174,"Dwelley, Ross",sfo,cin,0,4000,2
+175,"Olsen, Greg",car,ari,22.5,6100,3
+176,"Hooper, Austin",atl,ind,21.6,5800,3
+177,"Akins, Jordan",hou,lac,20.8,4100,3
+178,"Waller, Darren",oak,min,20.6,5900,3
+179,"Engram, Evan",nyg,tam,20.3,6400,3
+180,"Dissly, Will",sea, nor,15.2,5400,3
+181,"Knox, Dawson",buf, cin,15.1,4500,3
+182,"Fells, Darren",hou,lac,13.4,4000,3
+183,"Kelce, Travis",kan, bal,12.4,8000,3
+184,"Walker, Delanie",ten,jac,9.9,5700,3
+185,"O'Shaughnessy, James",jac, ten,8.8,4500,3
+186,"Kittle, George",sfo, pit,8.7,6600,3
+187,"Ertz, Zach",phi, det,8.4,6900,3
+188,"Howard, O.J.",tam, nyg,8.1,5800,3
+189,"Boyle, Nick",bal,kan,7.8,4300,3
+190,"Smith Jr., Irv",min, oak,7.5,4000,3
+191,"Witten, Jason",dal, mia,6.9,5000,3
+192,"Harris, Demetrius",cle, lar,6.7,4000,3
+193,"Doyle, Jack",ind, atl,6.6,5200,3
+194,"Ebron, Eric",ind, atl,6.2,5700,3
+195,"Izzo, Ryan",nwe, nyj,4.6,4000,3
+196,"Burton, Trey",chi,was,4,4900,3
+197,"Davis, Vernon",was, chi,4,4700,3
+198,"Alie-Cox, Mo",ind, atl,3.5,4000,3
+199,"Fant, Noah",den,gnb,3.2,4600,3
+200,"Smith, Jonnu",ten,jac,3,4000,3
+201,"Heuerman, Jeff",den,gnb,3,4500,3
+202,"Andrews, Mark",bal,kan,3,6800,3
+203,"Sprinkle, Jeremy",was, chi,2.9,4000,3
+204,"Stocker, Luke",atl,ind,2.7,4000,3
+205,"Everett, Gerald",lar,cle,2.5,4500,3
+206,"Lewis, Marcedes",gnb, den,2.4,4000,3
+207,"O'Leary, Nick",mia,dal,2.4,4000,3
+208,"Gesicki, Mike",mia,dal,2.4,4600,3
+209,"Hurst, Hayden",bal,kan,2.4,4800,3
+210,"Eifert, Tyler",cin,buf,2.3,4900,3
+211,"Thomas, Logan",det,phi,2,4000,3
+212,"Seals-Jones, Ricky",cle, lar,1.9,4700,3
+213,"James, Jesse",det,phi,1.8,4000,3
+214,"Kendricks, Lance",lac, hou,1.8,0,3
+215,"Brate, Cameron",tam, nyg,1.7,4500,3
+216,"Rudolph, Kyle",min, oak,1.6,4800,3
+217,"McDonald, Vance",pit,sfo,1.5,5900,3
+218,"Clay, Charles",ari, car,1.4,4200,3
+219,"Vannett, Nick",sea, nor,1.4,4500,3
+220,"Swaim, Geoff",jac, ten,1.3,4500,3
+221,"Shaheen, Adam",chi,was,1.2,4500,3
+222,"Cook, Jared",nor,sea,1.2,5800,3
+223,"Griffin, Ryan",nyj,nwe,1,4000,3
+224,"Tonyan, Robert",gnb, den,0.9,4000,3
+225,"Hill, Josh",nor,sea,0.9,4000,3
+226,"Jarwin, Blake",dal, mia,0.8,4500,3
+227,"Ellison, Rhett",nyg,tam,0.8,4000,3
+228,"Sweeney, Tommy",buf, cin,0.8,4000,3
+229,"Grimble, Xavier",pit,sfo,0.8,4000,3
+230,"Hockenson, T.J.",det,phi,0.6,5500,3
+231,"Moreau, Foster",oak,min,0.6,4000,3
+232,"Bell, Blake",kan, bal,0.6,4000,3
+233,"Firkser, Anthony",ten,jac,0,4000,3
+234,"Graham, Jimmy",gnb, den,0,4900,3
+235,"Manhertz, Chris",car,ari,0,4000,3
+236,"Beck, Andrew",den,gnb,0,4000,3
+237,"Auclair, Antony",tam, nyg,0,4000,3
+238,"Carter, Cethan",cin,buf,0,4000,3
+239,"Schultz, Dalton",dal, mia,0,4000,3
+240,"Brown, Pharaoh",cle, lar,0,4000,3
+241,"Thomas, Ian",car,ari,0,4000,3
+242,"Tomlinson, Eric",nyg,tam,0,4000,3
+243,"Carrier, Derek",oak,min,0,4000,3
+244,"Uzomah, C.J.",cin,buf,0,4000,3
+245,"Sample, Drew",cin,buf,0,4000,3
+246,"Mundt, Johnny",lar,cle,0,4000,3
+247,"Green, Virgil",lac, hou,0,4000,3
+248,"Goedert, Dallas",phi, det,0,4800,3
+249,"Smith, Lee",buf, cin,0,4000,3
+250,"DeValve, Seth",jac, ten,0,4000,3
+251,"Pruitt, MyCole",ten,jac,0,4000,3
+252,"Daniels, Darrell",ari, car,0,4000,3
+253,"Culkin, Sean",lac, hou,0,4000,3
+254,"Toilolo, Levine",sfo, pit,0,4000,3
+255,"Ellis, Alex",phi, det,0,4000,3
+256,"Fumagalli, Troy",den,gnb,0,4000,3
+257,"Brown, Daniel",nyj,nwe,0,4500,3
+258,"Braunecker, Ben",chi,was,0,4000,3
+259,"Williams, Maxx",ari, car,0,4100,3
+260,"Smythe, Durham",mia,dal,0,4000,3
+261,"Conklin, Tyler",min, oak,0,4000,3
+262,"Wesco, Trevon",nyj,nwe,0,4500,3
+263,"Dwelley, Ross",sfo, pit,0,4000,3
+264,"Hooper, Austin",atl, ten,17.5,6400,4
+265,"Seals-Jones, Ricky",cle,bal,15.7,5000,4
+266,"Dissly, Will",sea,ari,15.2,5400,4
+267,"Graham, Jimmy",gnb, phi,15.1,4600,4
+268,"Everett, Gerald",lar, tam,12.9,4500,4
+269,"Kelce, Travis",kan,det,12,7600,4
+270,"Ebron, Eric",ind, oak,11.3,5300,4
+271,"Andrews, Mark",bal, cle,11.1,6100,4
+272,"Brate, Cameron",tam,lar,11.1,4500,4
+273,"Moreau, Foster",oak,ind,10.5,4000,4
+274,"Doyle, Jack",ind, oak,10.2,5200,4
+275,"Hockenson, T.J.",det, kan,10.2,5200,4
+276,"Fant, Noah",den, jac,10.1,4600,4
+277,"Ertz, Zach",phi,gnb,10,6600,4
+278,"Waller, Darren",oak,ind,8.8,6700,4
+279,"Goedert, Dallas",phi,gnb,8.6,4500,4
+280,"O'Shaughnessy, James",jac,den,8.3,4600,4
+281,"Engram, Evan",nyg, was,7.4,6800,4
+282,"Knox, Dawson",buf, nwe,7.3,4700,4
+283,"Jarwin, Blake",dal,nor,6.4,4500,4
+284,"Higbee, Tyler",lar, tam,6.1,5000,4
+285,"Yelder, Deon",kan,det,5.3,4000,4
+286,"Witten, Jason",dal,nor,5,5000,4
+287,"Hurst, Hayden",bal, cle,4.9,4400,4
+288,"Howard, O.J.",tam,lar,4.8,5900,4
+289,"Kendricks, Lance",lac,mia,4.7,0,4
+290,"Hill, Josh",nor, dal,4.4,4000,4
+291,"Thomas, Logan",det, kan,4,4000,4
+292,"Ellison, Rhett",nyg, was,3.9,4000,4
+293,"Vannett, Nick",pit, cin,3.8,4500,4
+294,"Eifert, Tyler",cin,pit,3.7,4600,4
+295,"Akins, Jordan",hou, car,3.6,5100,4
+296,"Willson, Luke",sea,ari,3.6,0,4
+297,"Cook, Jared",nor, dal,3.6,5300,4
+298,"Swaim, Geoff",jac,den,3.2,4500,4
+299,"Lewis, Marcedes",gnb, phi,2.9,4000,4
+300,"Burton, Trey",chi, min,2.6,4900,4
+301,"Williams, Maxx",ari, sea,2.6,4000,4
+302,"Sprinkle, Jeremy",was,nyg,2.5,4000,4
+303,"Shaheen, Adam",chi, min,2.3,4500,4
+304,"Brown, Pharaoh",cle,bal,2.3,4000,4
+305,"Rudolph, Kyle",min,chi,1.7,4600,4
+306,"Fells, Darren",hou, car,1.7,4700,4
+307,"Culkin, Sean",lac,mia,1.7,4000,4
+308,"Tonyan, Robert",gnb, phi,1.6,4000,4
+309,"Olsen, Greg",car,hou,1.5,6000,4
+310,"O'Leary, Nick",mia, lac,1.4,4200,4
+311,"Boyle, Nick",bal, cle,1.4,4900,4
+312,"Holtz, J.P.",chi, min,1.2,0,4
+313,"Smith, Jonnu",ten,atl,1,4000,4
+314,"Davis, Vernon",was,nyg,1,5100,4
+315,"Smith Jr., Irv",min,chi,1,4600,4
+316,"Walker, Delanie",ten,atl,0.9,5700,4
+317,"Clay, Charles",ari, sea,0.8,4200,4
+318,"Manhertz, Chris",car,hou,0,4000,4
+319,"James, Jesse",det, kan,0,4000,4
+320,"Izzo, Ryan",nwe,buf,0,4500,4
+321,"Beck, Andrew",den, jac,0,4000,4
+322,"Auclair, Antony",tam,lar,0,4000,4
+323,"Sweeney, Tommy",buf, nwe,0,4000,4
+324,"Carter, Cethan",cin,pit,0,4000,4
+325,"Schultz, Dalton",dal,nor,0,4000,4
+326,"Thomas, Ian",car,hou,0,4000,4
+327,"Carrier, Derek",oak,ind,0,4000,4
+328,"Harris, Demetrius",cle,bal,0,4500,4
+329,"Gesicki, Mike",mia, lac,0,4600,4
+330,"Uzomah, C.J.",cin,pit,0,4000,4
+331,"Sample, Drew",cin,pit,0,4000,4
+332,"Heuerman, Jeff",den, jac,0,4500,4
+333,"Smith, Lee",buf, nwe,0,4000,4
+334,"LaCosse, Matt",nwe,buf,0,4000,4
+335,"DeValve, Seth",jac,den,0,4000,4
+336,"Alie-Cox, Mo",ind, oak,0,4200,4
+337,"Pruitt, MyCole",ten,atl,0,4000,4
+338,"Bell, Blake",kan,det,0,4000,4
+339,"Ellis, Alex",phi,gnb,0,4000,4
+340,"Stocker, Luke",atl, ten,0,4000,4
+341,"Braunecker, Ben",chi, min,0,4000,4
+342,"Smythe, Durham",mia, lac,0,4000,4
+343,"Conklin, Tyler",min,chi,0,4000,4
+344,"Kittle, George",sfo, cle,17.8,6500,5
+345,"Everett, Gerald",lar,sea,17.1,5100,5
+346,"Fells, Darren",hou, atl,15,4500,5
+347,"Ertz, Zach",phi, nyj,14.2,6600,5
+348,"Cook, Jared",nor, tam,12.1,5300,5
+349,"Izzo, Ryan",nwe,was,10.9,4500,5
+350,"Dissly, Will",sea, lar,10.8,5900,5
+351,"Hooper, Austin",atl,hou,10.6,6700,5
+352,"Kelce, Travis",kan, ind,9,7500,5
+353,"Engram, Evan",nyg, min,7.7,6300,5
+354,"Smith, Lee",buf,ten,7.3,4000,5
+355,"O'Shaughnessy, James",jac,car,7.2,4500,5
+356,"Andrews, Mark",bal,pit,7,6100,5
+357,"Moreau, Foster",oak, chi,6.6,4700,5
+358,"Higbee, Tyler",lar,sea,6.2,4500,5
+359,"Smith, Jonnu",ten, buf,6.2,4000,5
+360,"Waller, Darren",oak, chi,5.9,6400,5
+361,"Graham, Jimmy",gnb,dal,5.6,5500,5
+362,"Hill, Josh",nor, tam,5.4,4000,5
+363,"Hurst, Hayden",bal,pit,5.2,4400,5
+364,"McDonald, Vance",pit, bal,4.9,5500,5
+365,"Witten, Jason",dal, gnb,4.4,5000,5
+366,"Doyle, Jack",ind,kan,3.4,4900,5
+367,"Clay, Charles",ari,cin,3.2,4200,5
+368,"Carrier, Derek",oak, chi,3.2,4000,5
+369,"Burton, Trey",chi,oak,3.1,4800,5
+370,"Heuerman, Jeff",den,lac,3.1,4500,5
+371,"Tonyan, Robert",gnb,dal,2.8,4000,5
+372,"Sprinkle, Jeremy",was, nwe,2.7,4500,5
+373,"Lewis, Marcedes",gnb,dal,2.7,4000,5
+374,"LaCosse, Matt",nwe,was,2.7,4000,5
+375,"Akins, Jordan",hou, atl,2.6,4800,5
+376,"Uzomah, C.J.",cin, ari,2.6,4000,5
+377,"Eifert, Tyler",cin, ari,2.4,4600,5
+378,"Knox, Dawson",buf,ten,2.2,4800,5
+379,"Holtz, J.P.",chi,oak,2.1,0,5
+380,"Goedert, Dallas",phi, nyj,1.6,4500,5
+381,"Brate, Cameron",tam,nor,1.6,4900,5
+382,"Beck, Andrew",den,lac,1.5,4000,5
+383,"Walker, Delanie",ten, buf,1.5,5300,5
+384,"Howard, O.J.",tam,nor,1.5,5400,5
+385,"Willson, Luke",sea, lar,1.5,4200,5
+386,"Alie-Cox, Mo",ind,kan,1.5,4200,5
+387,"Ebron, Eric",ind,kan,1.3,5300,5
+388,"Williams, Maxx",ari,cin,1.2,4000,5
+389,"Fant, Noah",den,lac,1.1,4900,5
+390,"Green, Virgil",lac, den,1,4000,5
+391,"Rudolph, Kyle",min,nyg,0.9,4500,5
+392,"Swaim, Geoff",jac,car,0.9,4500,5
+393,"Ellison, Rhett",nyg, min,0.8,4000,5
+394,"Griffin, Ryan",nyj,phi,0.7,4000,5
+395,"Dwelley, Ross",sfo, cle,0.7,4000,5
+396,"Harris, Demetrius",cle,sfo,0.5,4500,5
+397,"Seals-Jones, Ricky",cle,sfo,0,5500,5
+398,"Firkser, Anthony",ten, buf,0,4000,5
+399,"Jarwin, Blake",dal, gnb,0,4500,5
+400,"Auclair, Antony",tam,nor,0,4000,5
+401,"Sweeney, Tommy",buf,ten,0,4000,5
+402,"Carter, Cethan",cin, ari,0,4000,5
+403,"Schultz, Dalton",dal, gnb,0,4000,5
+404,"Shaheen, Adam",chi,oak,0,4300,5
+405,"Brown, Pharaoh",cle,sfo,0,4000,5
+406,"Olsen, Greg",car, jac,0,5700,5
+407,"Thomas, Ian",car, jac,0,4000,5
+408,"Sample, Drew",cin, ari,0,4000,5
+409,"Mundt, Johnny",lar,sea,0,4000,5
+410,"Kendricks, Lance",lac, den,0,5100,5
+411,"Smith Jr., Irv",min,nyg,0,4500,5
+412,"DeValve, Seth",jac,car,0,4000,5
+413,"Pruitt, MyCole",ten, buf,0,4000,5
+414,"Bell, Blake",kan, ind,0,4000,5
+415,"Yelder, Deon",kan, ind,0,4000,5
+416,"Daniels, Darrell",ari,cin,0,4000,5
+417,"Boyle, Nick",bal,pit,0,4700,5
+418,"Anderson, Stephen",lac, den,0,4000,5
+419,"Toilolo, Levine",sfo, cle,0,4000,5
+420,"Vannett, Nick",pit, bal,0,4900,5
+421,"Stocker, Luke",atl,hou,0,4000,5
+422,"Brown, Daniel",nyj,phi,0,4500,5
+423,"Braunecker, Ben",chi,oak,0,4000,5
+424,"Conklin, Tyler",min,nyg,0,4000,5
+425,"Wesco, Trevon",nyj,phi,0,4500,5
+426,"Henry, Hunter",lac, pit,26,5700,6
+427,"Hooper, Austin",atl,ari,21.7,6400,6
+428,"Kittle, George",sfo,lar,14.3,6500,6
+429,"Seals-Jones, Ricky",cle, sea,12.2,5500,6
+430,"Brate, Cameron",tam, car,11.7,4900,6
+431,"Cook, Jared",nor,jac,11.2,5600,6
+432,"Andrews, Mark",bal, cin,10.9,6300,6
+433,"Williams, Maxx",ari, atl,10.9,4000,6
+434,"Griffin, Ryan",nyj, dal,10.3,4000,6
+435,"Fells, Darren",hou,kan,9.9,5200,6
+436,"Witten, Jason",dal,nyj,8.2,5000,6
+437,"Kelce, Travis",kan, hou,7.8,7500,6
+438,"Goedert, Dallas",phi,min,7.3,4500,6
+439,"Olsen, Greg",car,tam,7.2,5500,6
+440,"Gesicki, Mike",mia, was,6.6,4600,6
+441,"Lewis, Marcedes",gnb, det,6,4000,6
+442,"Walker, Delanie",ten,den,5.8,5200,6
+443,"Akins, Jordan",hou,kan,5.4,4600,6
+444,"Ertz, Zach",phi,min,5.4,6600,6
+445,"Rudolph, Kyle",min, phi,5.1,4500,6
+446,"Ellison, Rhett",nyg,nwe,4.5,4000,6
+447,"Howard, O.J.",tam, car,4.5,5100,6
+448,"Izzo, Ryan",nwe, nyg,4.1,4800,6
+449,"Hockenson, T.J.",det,gnb,4.1,5400,6
+450,"Higbee, Tyler",lar, sfo,4,4500,6
+451,"Smith Jr., Irv",min, phi,3.9,4500,6
+452,"Uzomah, C.J.",cin,bal,3.6,4000,6
+453,"Sprinkle, Jeremy",was,mia,3.4,4500,6
+454,"Firkser, Anthony",ten,den,3,4000,6
+455,"Boyle, Nick",bal, cin,2.8,4500,6
+456,"Graham, Jimmy",gnb, det,2.7,5800,6
+457,"Graham, Jaeden",atl,ari,2.6,4000,6
+458,"Fant, Noah",den, ten,2.6,4500,6
+459,"Willson, Luke",sea,cle,2.6,4200,6
+460,"Eifert, Tyler",cin,bal,2.3,4500,6
+461,"DeValve, Seth",jac, nor,2.1,4000,6
+462,"Harris, Demetrius",cle, sea,2,4500,6
+463,"Green, Virgil",lac, pit,2,4000,6
+464,"Everett, Gerald",lar, sfo,1.9,6000,6
+465,"Clay, Charles",ari, atl,1.8,4500,6
+466,"Jarwin, Blake",dal,nyj,1.6,4500,6
+467,"Brown, Pharaoh",cle, sea,1.4,4000,6
+468,"James, Jesse",det,gnb,1.3,4000,6
+469,"Smith, Jonnu",ten,den,1.3,4500,6
+470,"Toilolo, Levine",sfo,lar,1.3,4000,6
+471,"Hill, Josh",nor,jac,1.3,4600,6
+472,"Schultz, Dalton",dal,nyj,1.1,4000,6
+473,"Swaim, Geoff",jac, nor,1,4200,6
+474,"Vannett, Nick",pit,lac,1,4500,6
+475,"McDonald, Vance",pit,lac,1,5300,6
+476,"Hurst, Hayden",bal, cin,0.9,4400,6
+477,"O'Leary, Nick",mia, was,0.8,4200,6
+478,"Stocker, Luke",atl,ari,0.5,4000,6
+479,"Sample, Drew",cin,bal,0.4,4000,6
+480,"Cunningham, Jerome",was,mia,0,4000,6
+481,"Manhertz, Chris",car,tam,0,4000,6
+482,"Beck, Andrew",den, ten,0,4000,6
+483,"Thomas, Logan",det,gnb,0,4000,6
+484,"Auclair, Antony",tam, car,0,4000,6
+485,"Carter, Cethan",cin,bal,0,4000,6
+486,"Thomas, Ian",car,tam,0,4000,6
+487,"Mundt, Johnny",lar, sfo,0,4000,6
+488,"Heuerman, Jeff",den, ten,0,4600,6
+489,"Kendricks, Lance",lac, pit,0,4900,6
+490,"LaCosse, Matt",nwe, nyg,0,4000,6
+491,"Pruitt, MyCole",ten,den,0,4000,6
+492,"Dissly, Will",sea,cle,0,6000,6
+493,"Bell, Blake",kan, hou,0,4000,6
+494,"Yelder, Deon",kan, hou,0,4000,6
+495,"Daniels, Darrell",ari, atl,0,4000,6
+496,"Brown, Daniel",nyj, dal,0,4500,6
+497,"Hollister, Jacob",sea,cle,0,4500,6
+498,"Smythe, Durham",mia, was,0,4000,6
+499,"Conklin, Tyler",min, phi,0,4000,6
+500,"Wesco, Trevon",nyj, dal,0,4500,6
+501,"Dwelley, Ross",sfo,lar,0,4000,6
+502,"Waller, Darren",oak,gnb,28.1,6200,7
+503,"Ebron, Eric",ind, hou,15,5300,7
+504,"Graham, Jimmy",gnb, oak,14.5,5800,7
+505,"Rudolph, Kyle",min,det,14.3,4500,7
+506,"Everett, Gerald",lar,atl,13,5900,7
+507,"Goedert, Dallas",phi,dal,12.9,4800,7
+508,"Henry, Hunter",lac,ten,12.7,5700,7
+509,"Hooper, Austin",atl, lar,12.6,6600,7
+510,"Hill, Josh",nor,chi,11.8,4600,7
+511,"Ellison, Rhett",nyg, ari,10.3,4800,7
+512,"Moreau, Foster",oak,gnb,9.4,4900,7
+513,"Smith Jr., Irv",min,det,8.5,4500,7
+514,"Smith, Jonnu",ten, lac,7.9,4500,7
+515,"Kelce, Travis",kan,den,7.4,7200,7
+516,"Jarwin, Blake",dal, phi,6.6,4500,7
+517,"Gesicki, Mike",mia,buf,6.1,4600,7
+518,"Shaheen, Adam",chi, nor,5.4,4300,7
+519,"Kittle, George",sfo,was,5.3,7100,7
+520,"Witten, Jason",dal, phi,5.3,5000,7
+521,"Andrews, Mark",bal,sea,4.9,6700,7
+522,"Ertz, Zach",phi,dal,4.8,6300,7
+523,"Hockenson, T.J.",det, min,4.7,5400,7
+524,"Fells, Darren",hou,ind,3.7,5400,7
+525,"Doyle, Jack",ind, hou,3.6,4900,7
+526,"Hollister, Jacob",sea, bal,3.5,4500,7
+527,"Watson, Ben",nwe,nyj,3.3,0,7
+528,"Firkser, Anthony",ten, lac,3.2,4000,7
+529,"Carrier, Derek",oak,gnb,3.2,4000,7
+530,"Knox, Dawson",buf, mia,3.2,4800,7
+531,"Akins, Jordan",hou,ind,2.7,4600,7
+532,"Boyle, Nick",bal,sea,2.5,4300,7
+533,"Sprinkle, Jeremy",was, sfo,2.3,4500,7
+534,"Burton, Trey",chi, nor,2.1,4800,7
+535,"Eifert, Tyler",cin, jac,2,4500,7
+536,"Clay, Charles",ari,nyg,1.7,4500,7
+537,"Hurst, Hayden",bal,sea,1.5,4100,7
+538,"Green, Virgil",lac,ten,1.4,4000,7
+539,"Smith, Lee",buf, mia,1.4,4000,7
+540,"Higbee, Tyler",lar,atl,1.3,4500,7
+541,"James, Jesse",det, min,1.2,4000,7
+542,"Fant, Noah",den, kan,1.2,4500,7
+543,"Engram, Evan",nyg, ari,1.1,6800,7
+544,"Williams, Maxx",ari,nyg,1,4900,7
+545,"Sample, Drew",cin, jac,0.8,4000,7
+546,"Toilolo, Levine",sfo,was,0.7,4000,7
+547,"Dwelley, Ross",sfo,was,0.7,4000,7
+548,"Tomlinson, Eric",nwe,nyj,0.6,4000,7
+549,"Griffin, Ryan",nyj, nwe,0.6,4000,7
+550,"Graham, Jaeden",atl, lar,0,4000,7
+551,"Beck, Andrew",den, kan,0,4000,7
+552,"Thomas, Logan",det, min,0,4000,7
+553,"Lewis, Marcedes",gnb, oak,0,4000,7
+554,"Walker, Delanie",ten, lac,0,5200,7
+555,"Carter, Cethan",cin, jac,0,4000,7
+556,"Schultz, Dalton",dal, phi,0,4000,7
+557,"O'Leary, Nick",mia,buf,0,4200,7
+558,"Uzomah, C.J.",cin, jac,0,4300,7
+559,"Mundt, Johnny",lar,atl,0,4000,7
+560,"Heuerman, Jeff",den, kan,0,4500,7
+561,"Kendricks, Lance",lac,ten,0,4900,7
+562,"Arnold, Dan",nor,chi,0,4000,7
+563,"Willson, Luke",sea, bal,0,4500,7
+564,"DeValve, Seth",jac,cin,0,4000,7
+565,"Alie-Cox, Mo",ind, hou,0,4200,7
+566,"Pruitt, MyCole",ten, lac,0,4000,7
+567,"Kroft, Tyler",buf, mia,0,4000,7
+568,"Bell, Blake",kan,den,0,4000,7
+569,"Yelder, Deon",kan,den,0,4000,7
+570,"Daniels, Darrell",ari,nyg,0,4000,7
+571,"Stocker, Luke",atl, lar,0,4000,7
+572,"Brown, Daniel",nyj, nwe,0,4500,7
+573,"Braunecker, Ben",chi, nor,0,4000,7
+574,"Smythe, Durham",mia,buf,0,4000,7
+575,"Conklin, Tyler",min,det,0,4000,7
+576,"Wesco, Trevon",nyj, nwe,0,4500,7
+577,"Griffin, Ryan",nyj,jac,22.6,4000,8
+578,"Fells, Darren",hou, oak,20.8,5100,8
+579,"Smith, Jonnu",ten, tam,16.8,4900,8
+580,"Hooper, Austin",atl, sea,15.5,6600,8
+581,"Kelce, Travis",kan, gnb,14.3,6600,8
+582,"Engram, Evan",nyg,det,12,6300,8
+583,"Kittle, George",sfo, car,11.6,6900,8
+584,"Eifert, Tyler",cin,lar,10.4,4500,8
+585,"Clay, Charles",ari,nor,10.3,4500,8
+586,"Harris, Demetrius",cle,nwe,10.3,4500,8
+587,"Goedert, Dallas",phi,buf,9.7,4800,8
+588,"Doyle, Jack",ind, den,8.1,4900,8
+589,"Waller, Darren",oak,hou,8.1,6800,8
+590,"Henry, Hunter",lac,chi,6.7,6700,8
+591,"Firkser, Anthony",ten, tam,5.8,4000,8
+592,"Hill, Josh",nor, ari,5.4,5000,8
+593,"Fant, Noah",den,ind,5.1,4500,8
+594,"Brate, Cameron",tam,ten,4.7,5200,8
+595,"Kroft, Tyler",buf, phi,4.2,4000,8
+596,"Ebron, Eric",ind, den,4.1,5400,8
+597,"Smith Jr., Irv",min, was,3.6,4800,8
+598,"Graham, Jimmy",gnb,kan,3.5,6000,8
+599,"Arnold, Dan",nor, ari,3.5,4000,8
+600,"McDonald, Vance",pit, mia,3.4,5300,8
+601,"Rudolph, Kyle",min, was,3.2,4700,8
+602,"Watson, Ben",nwe, cle,3.1,4900,8
+603,"Ertz, Zach",phi,buf,3,6300,8
+604,"Hollister, Jacob",sea,atl,2.8,4800,8
+605,"Hockenson, T.J.",det, nyg,2.6,5300,8
+606,"Everett, Gerald",lar, cin,2.5,6100,8
+607,"Olsen, Greg",car,sfo,2.3,5500,8
+608,"Stocker, Luke",atl, sea,2.3,4000,8
+609,"Sprinkle, Jeremy",was,min,2.2,4700,8
+610,"Thomas, Logan",det, nyg,2.2,4000,8
+611,"Burton, Trey",chi, lac,2.1,4800,8
+612,"Akins, Jordan",hou, oak,2.1,4300,8
+613,"Gesicki, Mike",mia,pit,2,4800,8
+614,"Vannett, Nick",pit, mia,2,4500,8
+615,"Hentges, Hale",was,min,1.8,4000,8
+616,"Graham, Jaeden",atl, sea,1.6,4000,8
+617,"Lewis, Marcedes",gnb,kan,1.6,4000,8
+618,"Heuerman, Jeff",den,ind,1.6,4300,8
+619,"DeValve, Seth",jac, nyj,1.6,4000,8
+620,"Moreau, Foster",oak,hou,1.5,4900,8
+621,"Green, Virgil",lac,chi,1.5,4000,8
+622,"Williams, Maxx",ari,nor,1.4,4600,8
+623,"Higbee, Tyler",lar, cin,1.3,4500,8
+624,"Willson, Luke",sea,atl,1.2,4500,8
+625,"Oliver, Josh",jac, nyj,1.1,4000,8
+626,"Smith, Lee",buf, phi,1.1,4000,8
+627,"Uzomah, C.J.",cin,lar,0.9,4300,8
+628,"Ellison, Rhett",nyg,det,0.4,5000,8
+629,"Seals-Jones, Ricky",cle,nwe,0,5600,8
+630,"Hudson, Tanner",tam,ten,0,4000,8
+631,"Manhertz, Chris",car,sfo,0,4000,8
+632,"James, Jesse",det, nyg,0,4000,8
+633,"Beck, Andrew",den,ind,0,4000,8
+634,"Auclair, Antony",tam,ten,0,4000,8
+635,"Carter, Cethan",cin,lar,0,4000,8
+636,"Shaheen, Adam",chi, lac,0,4300,8
+637,"Brown, Pharaoh",cle,nwe,0,4000,8
+638,"Thomas, Ian",car,sfo,0,4000,8
+639,"O'Leary, Nick",mia,pit,0,4200,8
+640,"Tomlinson, Eric",nwe, cle,0,4000,8
+641,"Carrier, Derek",oak,hou,0,4000,8
+642,"Sample, Drew",cin,lar,0,4200,8
+643,"Mundt, Johnny",lar, cin,0,4000,8
+644,"Holtz, J.P.",chi, lac,0,4000,8
+645,"Koyack, Ben",jac, nyj,0,4000,8
+646,"Alie-Cox, Mo",ind, den,0,4200,8
+647,"Pruitt, MyCole",ten, tam,0,4000,8
+648,"Bell, Blake",kan, gnb,0,4000,8
+649,"Yelder, Deon",kan, gnb,0,4000,8
+650,"Daniels, Darrell",ari,nor,0,4000,8
+651,"Toilolo, Levine",sfo, car,0,4000,8
+652,"Brown, Daniel",nyj,jac,0,4500,8
+653,"Braunecker, Ben",chi, lac,0,4000,8
+654,"Smythe, Durham",mia,pit,0,4000,8
+655,"Conklin, Tyler",min, was,0,4000,8
+656,"Wesco, Trevon",nyj,jac,0,4500,8
+657,"Knox, Dawson",buf, phi,0,4600,8
+658,"Dwelley, Ross",sfo, car,0,4000,8
